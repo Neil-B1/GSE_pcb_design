@@ -10383,7 +10383,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 248.92 71.755 0)
 			(effects
 				(font
@@ -10459,7 +10463,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 202.946 119.634 90)
 			(effects
 				(font
@@ -10468,7 +10476,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 201.93 119.38 0)
 			(effects
 				(font
@@ -10529,7 +10541,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 187.96 71.755 0)
 			(effects
 				(font
@@ -10605,7 +10621,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 67.0052 116.84 0)
 			(effects
 				(font
@@ -10614,7 +10634,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 66.04 113.03 0)
 			(effects
 				(font
@@ -10675,7 +10699,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 79.7052 116.84 0)
 			(effects
 				(font
@@ -10684,7 +10712,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 78.74 113.03 0)
 			(effects
 				(font
@@ -10745,7 +10777,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 181.356 25.654 90)
 			(effects
 				(font
@@ -10754,7 +10790,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 180.34 25.4 0)
 			(effects
 				(font
@@ -10815,7 +10855,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 166.116 53.594 90)
 			(effects
 				(font
@@ -10824,7 +10868,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 165.1 53.34 0)
 			(effects
 				(font
@@ -10883,7 +10931,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 92.964 90)
 			(effects
 				(font
@@ -10892,7 +10944,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 93.98 0)
 			(effects
 				(font
@@ -11019,7 +11075,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 247.65 170.18 0)
 			(effects
 				(font
@@ -11088,7 +11148,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "launch_controller:ADS1115"
+=======
+		(property "Footprint" "SARP:ADS1015"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 69.85 173.99 0)
 			(effects
 				(font
@@ -11097,7 +11161,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ads1115.pdf"
+=======
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ads1015.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 68.58 184.15 0)
 			(effects
 				(font
@@ -11188,7 +11256,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 203.2 43.815 0)
 			(effects
 				(font
@@ -11396,7 +11468,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 201.93 101.6 0)
 			(effects
 				(font
@@ -11405,7 +11481,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 201.93 101.6 0)
 			(effects
 				(font
@@ -11466,7 +11546,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 67.0052 100.33 0)
 			(effects
 				(font
@@ -11475,7 +11559,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 66.04 96.52 0)
 			(effects
 				(font
@@ -11604,7 +11692,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 30.734 90)
 			(effects
 				(font
@@ -11613,7 +11705,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 31.75 0)
 			(effects
 				(font
@@ -11672,7 +11768,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 39.624 90)
 			(effects
 				(font
@@ -11681,7 +11781,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 40.64 0)
 			(effects
 				(font
@@ -11742,7 +11846,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 172.466 119.634 90)
 			(effects
 				(font
@@ -11751,7 +11859,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 171.45 119.38 0)
 			(effects
 				(font
@@ -12148,7 +12260,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 206.756 53.594 90)
 			(effects
 				(font
@@ -12157,7 +12273,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 205.74 53.34 0)
 			(effects
 				(font
@@ -12514,7 +12634,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 105.1052 100.33 0)
 			(effects
 				(font
@@ -12523,7 +12647,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 104.14 96.52 0)
 			(effects
 				(font
@@ -12782,7 +12910,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 171.45 127 0)
 			(effects
 				(font
@@ -12791,7 +12923,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 171.45 127 0)
 			(effects
 				(font
@@ -12852,7 +12988,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 221.996 25.654 90)
 			(effects
 				(font
@@ -12861,7 +13001,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 220.98 25.4 0)
 			(effects
 				(font
@@ -13066,7 +13210,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 172.466 94.234 90)
 			(effects
 				(font
@@ -13075,7 +13223,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 171.45 93.98 0)
 			(effects
 				(font
@@ -13136,7 +13288,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 92.4052 100.33 0)
 			(effects
 				(font
@@ -13145,7 +13301,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 91.44 96.52 0)
 			(effects
 				(font
@@ -13204,7 +13364,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 75.184 90)
 			(effects
 				(font
@@ -13213,7 +13377,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 76.2 0)
 			(effects
 				(font
@@ -13274,7 +13442,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 186.436 53.594 90)
 			(effects
 				(font
@@ -13283,7 +13455,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 185.42 53.34 0)
 			(effects
 				(font
@@ -13344,7 +13520,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 200.66 33.02 0)
 			(effects
 				(font
@@ -13353,7 +13533,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 200.66 33.02 0)
 			(effects
 				(font
@@ -13414,7 +13598,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 161.036 25.654 90)
 			(effects
 				(font
@@ -13423,7 +13611,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 160.02 25.4 0)
 			(effects
 				(font
@@ -13550,7 +13742,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 248.666 162.814 90)
 			(effects
 				(font
@@ -13559,7 +13755,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 247.65 162.56 0)
 			(effects
 				(font
@@ -13696,7 +13896,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 48.514 90)
 			(effects
 				(font
@@ -13705,7 +13909,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 49.53 0)
 			(effects
 				(font
@@ -13982,7 +14190,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 171.45 101.6 0)
 			(effects
 				(font
@@ -13991,7 +14203,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 171.45 101.6 0)
 			(effects
 				(font
@@ -14052,7 +14268,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 247.396 53.594 90)
 			(effects
 				(font
@@ -14061,7 +14281,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 246.38 53.34 0)
 			(effects
 				(font
@@ -14200,7 +14424,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 243.84 43.815 0)
 			(effects
 				(font
@@ -14342,7 +14570,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 165.1 60.96 0)
 			(effects
 				(font
@@ -14351,7 +14583,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 165.1 60.96 0)
 			(effects
 				(font
@@ -14478,7 +14714,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 201.676 25.654 90)
 			(effects
 				(font
@@ -14487,7 +14727,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 200.66 25.4 0)
 			(effects
 				(font
@@ -14693,7 +14937,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 201.93 127 0)
 			(effects
 				(font
@@ -14702,7 +14950,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 201.93 127 0)
 			(effects
 				(font
@@ -14829,7 +15081,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 187.706 119.634 90)
 			(effects
 				(font
@@ -14838,7 +15094,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 186.69 119.38 0)
 			(effects
 				(font
@@ -14897,7 +15157,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 101.854 90)
 			(effects
 				(font
@@ -14906,7 +15170,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 102.87 0)
 			(effects
 				(font
@@ -14967,7 +15235,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 216.916 94.234 90)
 			(effects
 				(font
@@ -14976,7 +15248,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 215.9 93.98 0)
 			(effects
 				(font
@@ -15037,7 +15313,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 162.56 43.815 0)
 			(effects
 				(font
@@ -15048,7 +15328,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
+=======
+		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 162.56 45.72 0)
 			(effects
 				(font
@@ -15179,7 +15463,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 157.226 119.634 90)
 			(effects
 				(font
@@ -15188,7 +15476,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 156.21 119.38 0)
 			(effects
 				(font
@@ -15466,7 +15758,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 215.9 101.6 0)
 			(effects
 				(font
@@ -15475,7 +15771,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 215.9 101.6 0)
 			(effects
 				(font
@@ -15603,7 +15903,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 54.3052 116.84 0)
 			(effects
 				(font
@@ -15612,7 +15916,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 53.34 113.03 0)
 			(effects
 				(font
@@ -15806,7 +16114,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "launch_controller:ADS1115"
+=======
+		(property "Footprint" "SARP:ADS1015"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 111.76 172.72 0)
 			(effects
 				(font
@@ -15815,7 +16127,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ads1115.pdf"
+=======
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ads1015.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 110.49 182.88 0)
 			(effects
 				(font
@@ -16038,7 +16354,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 238.506 137.414 90)
 			(effects
 				(font
@@ -16047,7 +16367,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 237.49 137.16 0)
 			(effects
 				(font
@@ -16306,7 +16630,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 182.88 43.815 0)
 			(effects
 				(font
@@ -16382,7 +16710,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 226.06 60.96 0)
 			(effects
 				(font
@@ -16391,7 +16723,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 226.06 60.96 0)
 			(effects
 				(font
@@ -16651,7 +16987,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 160.02 33.02 0)
 			(effects
 				(font
@@ -16660,7 +17000,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 160.02 33.02 0)
 			(effects
 				(font
@@ -16785,7 +17129,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 57.404 90)
 			(effects
 				(font
@@ -16794,7 +17142,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 58.42 0)
 			(effects
 				(font
@@ -16921,7 +17273,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 220.98 33.02 0)
 			(effects
 				(font
@@ -16930,7 +17286,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 220.98 33.02 0)
 			(effects
 				(font
@@ -17196,7 +17556,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 79.7052 100.33 0)
 			(effects
 				(font
@@ -17205,7 +17569,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 78.74 96.52 0)
 			(effects
 				(font
@@ -17264,7 +17632,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 110.744 90)
 			(effects
 				(font
@@ -17273,7 +17645,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 111.76 0)
 			(effects
 				(font
@@ -17334,7 +17710,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 92.4052 133.35 0)
 			(effects
 				(font
@@ -17343,7 +17723,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 91.44 129.54 0)
 			(effects
 				(font
@@ -17537,7 +17921,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 92.4052 116.84 0)
 			(effects
 				(font
@@ -17546,7 +17934,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 91.44 113.03 0)
 			(effects
 				(font
@@ -17607,7 +17999,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 180.34 33.02 0)
 			(effects
 				(font
@@ -17616,7 +18012,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 180.34 33.02 0)
 			(effects
 				(font
@@ -17677,7 +18077,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 237.49 144.78 0)
 			(effects
 				(font
@@ -17686,7 +18090,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 237.49 144.78 0)
 			(effects
 				(font
@@ -17813,7 +18221,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 223.52 43.815 0)
 			(effects
 				(font
@@ -18099,7 +18511,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 227.076 53.594 90)
 			(effects
 				(font
@@ -18108,7 +18524,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 226.06 53.34 0)
 			(effects
 				(font
@@ -18301,7 +18721,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 156.21 101.6 0)
 			(effects
 				(font
@@ -18310,7 +18734,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 156.21 101.6 0)
 			(effects
 				(font
@@ -18438,7 +18866,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 208.28 71.755 0)
 			(effects
 				(font
@@ -18777,7 +19209,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 105.1052 116.84 0)
 			(effects
 				(font
@@ -18786,7 +19222,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 104.14 113.03 0)
 			(effects
 				(font
@@ -19049,7 +19489,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 84.074 90)
 			(effects
 				(font
@@ -19058,7 +19502,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 85.09 0)
 			(effects
 				(font
@@ -19119,7 +19567,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 205.74 60.96 0)
 			(effects
 				(font
@@ -19128,7 +19580,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 205.74 60.96 0)
 			(effects
 				(font
@@ -19189,7 +19645,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 215.9 127 0)
 			(effects
 				(font
@@ -19198,7 +19658,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 215.9 127 0)
 			(effects
 				(font
@@ -19259,7 +19723,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 242.316 25.654 90)
 			(effects
 				(font
@@ -19268,7 +19736,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/sdr-e.pdf"
+=======
+		(property "Datasheet" "https://www.vishay.com/docs/31027/cmfmil.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 241.3 25.4 0)
 			(effects
 				(font
@@ -19329,7 +19801,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 241.3 33.02 0)
 			(effects
 				(font
@@ -19338,7 +19814,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 241.3 33.02 0)
 			(effects
 				(font
@@ -19398,7 +19878,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 157.226 94.234 90)
 			(effects
 				(font
@@ -19407,7 +19891,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 156.21 93.98 0)
 			(effects
 				(font
@@ -20463,7 +20951,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 228.6 71.755 0)
 			(effects
 				(font
@@ -20539,7 +21031,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 79.7052 133.35 0)
 			(effects
 				(font
@@ -20548,7 +21044,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 78.74 129.54 0)
 			(effects
 				(font
@@ -20609,7 +21109,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 246.38 60.96 0)
 			(effects
 				(font
@@ -20618,7 +21122,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 246.38 60.96 0)
 			(effects
 				(font
@@ -20877,7 +21385,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 202.946 94.234 90)
 			(effects
 				(font
@@ -20886,7 +21398,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 201.93 93.98 0)
 			(effects
 				(font
@@ -21013,7 +21529,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 67.0052 133.35 0)
 			(effects
 				(font
@@ -21022,7 +21542,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 66.04 129.54 0)
 			(effects
 				(font
@@ -21348,7 +21872,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 186.69 127 0)
 			(effects
 				(font
@@ -21357,7 +21885,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 186.69 127 0)
 			(effects
 				(font
@@ -21418,7 +21950,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 156.21 127 0)
 			(effects
 				(font
@@ -21427,7 +21963,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 156.21 127 0)
 			(effects
 				(font
@@ -21488,7 +22028,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
+=======
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 167.64 71.755 0)
 			(effects
 				(font
@@ -21564,7 +22108,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 187.706 94.234 90)
 			(effects
 				(font
@@ -21573,7 +22121,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 186.69 93.98 0)
 			(effects
 				(font
@@ -21634,7 +22186,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+=======
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 54.3052 133.35 0)
 			(effects
 				(font
@@ -21643,7 +22199,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/KEM_C1050_GOLDMAX_X7R-3316381.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 53.34 129.54 0)
 			(effects
 				(font
@@ -21704,7 +22264,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D4.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 186.69 101.6 0)
 			(effects
 				(font
@@ -21713,7 +22277,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM1206HC-3001920.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 186.69 101.6 0)
 			(effects
 				(font
@@ -21774,7 +22342,11 @@
 				(justify right)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+=======
+		(property "Footprint" "LED_THT:LED_D3.0mm"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 185.42 60.96 0)
 			(effects
 				(font
@@ -21783,7 +22355,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 185.42 60.96 0)
 			(effects
 				(font
@@ -21844,7 +22420,11 @@
 				(justify left)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 216.916 119.634 90)
 			(effects
 				(font
@@ -21853,7 +22433,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 215.9 119.38 0)
 			(effects
 				(font
@@ -22138,7 +22722,11 @@
 				)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder"
+=======
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 315.214 66.294 90)
 			(effects
 				(font
@@ -22147,7 +22735,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Datasheet" "https://www.vishay.com/docs/20043/crcwhpe3.pdf"
+=======
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/8/ENG_DS_1773241_G-3045545.pdf"
+>>>>>>> 7148493cb09bb3d0a180cd0adc1b4159490baa26
 			(at 314.96 67.31 0)
 			(effects
 				(font
