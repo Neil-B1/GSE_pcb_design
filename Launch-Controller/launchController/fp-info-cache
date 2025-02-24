@@ -1,4 +1,4 @@
-24618465026135724
+24616734018023994
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91356,13 +91356,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SARP
-ADS1015
-
-
-0
-16
-13
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -99463,12 +99456,12 @@ launch_controller
 3
 3
 launch_controller
-ADS1015
+ADS1115
 
 
 0
-0
-0
+16
+13
 launch_controller
 BuckConverter Connector
 

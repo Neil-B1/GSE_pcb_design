@@ -1,4 +1,4 @@
-(footprint "ADS1015"
+(footprint "ADS1115"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "ADS1015"
+	(property "Value" "ADS1115"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -234,7 +234,7 @@
 			)
 		)
 	)
-	(fp_text user "ADS1015"
+	(fp_text user "ADS1115"
 		(at 7.956612 -22.300616 0)
 		(unlocked yes)
 		(layer "F.SilkS")
