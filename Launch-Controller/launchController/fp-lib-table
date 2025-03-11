@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
   (lib (name "launch_controller")(type "KiCad")(uri "${KIPRJMOD}/launch_controller.pretty")(options "")(descr ""))
+  (lib (name "kicad_import")(type "KiCad")(uri "/Users/cooperreynolds/Documents/kicad_import")(options "")(descr ""))
 )
