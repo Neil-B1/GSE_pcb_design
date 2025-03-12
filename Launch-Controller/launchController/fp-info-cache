@@ -1,4 +1,4 @@
-24618475839273323
+24625442439911797
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99448,6 +99448,34 @@ Varistor VF
 0
 2
 2
+kicad_import
+Untitled
+
+
+0
+0
+0
+kicad_import
+avionicslogo
+
+
+0
+0
+0
+kicad_import
+round sarp
+
+
+0
+0
+0
+kicad_import
+small shield
+
+
+0
+0
+0
 launch_controller
 684M3W3203L461
 
