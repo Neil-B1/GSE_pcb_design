@@ -14313,7 +14313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 204.47 0)
 			(effects
 				(font
@@ -15085,7 +15085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 166.37 0)
 			(effects
 				(font
@@ -15230,7 +15230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 147.32 0)
 			(effects
 				(font
@@ -15587,7 +15587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 53.34 0)
 			(effects
 				(font
@@ -16080,7 +16080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 72.39 0)
 			(effects
 				(font
@@ -16991,7 +16991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 34.29 0)
 			(effects
 				(font
@@ -19911,7 +19911,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 185.42 0)
 			(effects
 				(font
@@ -20676,7 +20676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 91.44 0)
 			(effects
 				(font
@@ -24565,7 +24565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 109.22 0)
 			(effects
 				(font
@@ -24713,7 +24713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "launch_controller:Relay Connector"
+		(property "Footprint" "launch_controller:RelaySwitch Connector"
 			(at 25.4 128.27 0)
 			(effects
 				(font
