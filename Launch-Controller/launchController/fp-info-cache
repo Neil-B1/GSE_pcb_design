@@ -1,4 +1,4 @@
-24625442439911797
+24625446507894057
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99505,7 +99505,7 @@ BuckConverter Connector
 10
 10
 launch_controller
-Relay Connector
+RelaySwitch Connector
 
 
 0

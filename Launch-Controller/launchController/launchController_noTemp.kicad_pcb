@@ -198,19 +198,19 @@
 	(net 53 "unconnected-(J11-GPIO19{slash}SPI1_MISO{slash}PCM_FS-Pad35)")
 	(net 54 "unconnected-(J11-~{CE0}_SPI0{slash}GPIO08-Pad24)")
 	(net 55 "unconnected-(J11-~{CE1}_SPI0{slash}GPIO07-Pad26)")
-	(net 56 "unconnected-(J11-3V3-Pad1)")
+	(net 56 "/+3.3V")
 	(net 57 "unconnected-(J11-GPIO15{slash}UART_RXD-Pad10)")
 	(net 58 "unconnected-(J11-GPIO25{slash}SDIO_DAT1-Pad22)")
-	(net 59 "unconnected-(J11-3V3-Pad1)_1")
+	(net 59 "/SDAA")
 	(net 60 "unconnected-(J11-GPIO20{slash}SPI1_MOSI{slash}PCM_DIN{slash}PWM1-Pad38)")
-	(net 61 "/SCL")
+	(net 61 "/SCLA")
 	(net 62 "unconnected-(J11-GPIO12{slash}PWM0-Pad32)")
 	(net 63 "unconnected-(J11-GPIO14{slash}UART_TXD-Pad8)")
 	(net 64 "unconnected-(J11-GPIO24{slash}SDIO_DAT0-Pad18)")
 	(net 65 "unconnected-(J11-GPIO16{slash}SPI1_~{CE2}-Pad36)")
 	(net 66 "unconnected-(J11-ID_SD_I2C0{slash}GPIO00-Pad27)")
 	(net 67 "unconnected-(J11-GPIO21{slash}SPI1_SCLK{slash}PCM_DOUT-Pad40)")
-	(net 68 "/SDA")
+	(net 68 "/SDAB")
 	(net 69 "unconnected-(J11-ID_SC_I2C0{slash}GPIO01-Pad28)")
 	(net 70 "unconnected-(J11-GPIO26{slash}SDIO_DAT2-Pad37)")
 	(net 71 "unconnected-(J11-GPIO23{slash}SDIO_CMD-Pad16)")
@@ -257,6 +257,7 @@
 	(net 112 "Net-(D9-K)")
 	(net 113 "Net-(D10-K)")
 	(net 114 "Net-(D12-K)")
+	(net 115 "/SCLB")
 	(footprint "Package_TO_SOT_SMD:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "005ec02e-ee58-40fc-a9a8-abcc591a589e")
@@ -297,7 +298,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1198,7 +1199,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1236,7 +1237,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1474,7 +1475,7 @@
 				)
 			)
 		)
-		(property "Value" "150ohm"
+		(property "Value" "150Ω"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "88295a36-9322-4d7f-bbff-90b813187d04")
@@ -1710,7 +1711,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1951,7 +1952,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "cc42a761-a949-4351-a1f6-05f7c1e0d29d")
@@ -2164,7 +2165,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2189,7 +2190,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2202,7 +2203,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2529,7 +2530,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2567,7 +2568,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3039,7 +3040,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "Power Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3625,7 +3626,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.4 0)
 			(layer "F.Fab")
 			(uuid "9c333734-c181-43cc-bd4c-dd1cbb978381")
@@ -3649,7 +3650,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e10b06-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1741064685584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpd1e10b06-q1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3662,7 +3663,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 5.5VWM 14VC 2X1SON"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4185,7 +4186,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "394dbd5d-2441-4585-893b-f7ac7bdf6d77")
@@ -4398,7 +4399,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "TVS Diode"
 			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "9574a4a2-fc51-4050-82db-3ad818b8f710")
@@ -4421,7 +4422,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tsm24a-q1.pdf?ts=1741809653239&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTSM24A-Q1"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4433,7 +4434,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated"
+		(property "Description" "Automotive, 24-V, unidirectional, TVS surge-protection diode"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5132,7 +5133,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 180)
 			(layer "F.Fab")
 			(uuid "0f3ef009-5afe-4608-bf33-8e0e8e89c6c6")
@@ -5156,7 +5157,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5169,7 +5170,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5497,7 +5498,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "c48b2dc4-baad-42eb-b7d7-e1f678969279")
@@ -5710,7 +5711,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 180)
 			(layer "F.Fab")
 			(uuid "d3d3a5ee-5a4c-49ef-8eef-dba0dbd0642c")
@@ -5734,7 +5735,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5747,7 +5748,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6075,7 +6076,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "1b4827f9-a24e-4209-9d55-92ef325c8c76")
@@ -6501,7 +6502,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.4 180)
 			(layer "F.Fab")
 			(uuid "f71f32f4-798b-4986-8df2-6e9a62c39f5f")
@@ -6525,7 +6526,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e10b06-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1741064685584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpd1e10b06-q1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6538,7 +6539,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 5.5VWM 14VC 2X1SON"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6999,7 +7000,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "ecdf4181-6119-4d2d-8fac-077dbd5a83cc")
@@ -7872,7 +7873,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7910,7 +7911,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8148,7 +8149,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "cc895586-609b-4003-8c31-013fbe2b295f")
@@ -8596,7 +8597,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.4 0)
 			(layer "F.Fab")
 			(uuid "8e6c9cda-caae-4c78-99d0-5c0bcf2d7cd7")
@@ -8620,7 +8621,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e10b06-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1741064685584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpd1e10b06-q1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8633,7 +8634,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 5.5VWM 14VC 2X1SON"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8998,7 +8999,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "18003aed-71fd-4cd9-9bde-c052e40d510d")
@@ -9210,7 +9211,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "Power Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9779,6 +9780,219 @@
 			)
 		)
 	)
+	(footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(layer "F.Cu")
+		(uuid "4abd8eb3-e20b-4ba0-8527-9e4cca01e43e")
+		(at 185.928 142.748 -90)
+		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(tags "capacitor handsolder")
+		(property "Reference" "C17"
+			(at 0 1.016 90)
+			(layer "F.SilkS")
+			(uuid "e48d024d-219a-420f-bf74-69812b491491")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 0 1.16 90)
+			(layer "F.Fab")
+			(uuid "75100f38-fb85-45d8-9340-a8ba04777840")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c2dc726-eb30-4d8a-85f8-3e519b2fe125")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8a4093e-2247-4fdf-92e1-d59bf018d3ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3df10be6-795e-4611-b38c-ceefd66da0f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "C_*")
+		(path "/fe883f1b-76e7-4193-a821-c7c1de9db3b7")
+		(sheetname "Root")
+		(sheetfile "launchController_noTemp.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -0.115835 0.36)
+			(end 0.115835 0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "aa7c07b0-f9f8-4d6b-99e7-a5a5a3498210")
+		)
+		(fp_line
+			(start -0.115835 -0.36)
+			(end 0.115835 -0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "03f4281a-3cb3-4480-ba43-dbfe4e33e482")
+		)
+		(fp_line
+			(start -1.08 0.46)
+			(end -1.08 -0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "239227a6-556f-45e0-9e96-501e817f801a")
+		)
+		(fp_line
+			(start 1.08 0.46)
+			(end -1.08 0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "1c124d7d-e719-430c-ac77-b614fba21791")
+		)
+		(fp_line
+			(start -1.08 -0.46)
+			(end 1.08 -0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4f5c8d34-7a4a-43c9-9ff1-102847412c60")
+		)
+		(fp_line
+			(start 1.08 -0.46)
+			(end 1.08 0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "c331a825-5aa1-4c02-9634-99aee3010ed8")
+		)
+		(fp_line
+			(start -0.5 0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "fd9a1eb9-acda-4928-9a0f-96b14306afdc")
+		)
+		(fp_line
+			(start 0.5 0.25)
+			(end -0.5 0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "f33676e1-ab88-4ac0-8fb7-f6736d15734a")
+		)
+		(fp_line
+			(start -0.5 -0.25)
+			(end 0.5 -0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5a264acf-72f3-4843-819c-712931a6762b")
+		)
+		(fp_line
+			(start 0.5 -0.25)
+			(end 0.5 0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "771c01f7-8d7d-4a60-9bea-e67354e373cf")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(uuid "837e5a96-832d-4043-8049-4ec35e6cef66")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.5675 0 270)
+			(size 0.735 0.62)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 56 "/+3.3V")
+			(pintype "passive")
+			(uuid "443feed6-ce13-436b-bc6f-e7db2f58e890")
+		)
+		(pad "2" smd roundrect
+			(at 0.5675 0 270)
+			(size 0.735 0.62)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 2 "GND")
+			(pintype "passive")
+			(uuid "319f2feb-e64f-4b79-b062-a93f87d3d8c2")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Package_TO_SOT_SMD:SOT-23-3"
 		(layer "F.Cu")
 		(uuid "4d2edf00-2b97-4fc9-a7a6-2a9cf8e9d406")
@@ -9819,7 +10033,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10083,7 +10297,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -10559,7 +10773,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 180)
 			(layer "F.Fab")
 			(uuid "411539d8-8cae-4d79-893d-30c6ec0289d8")
@@ -10583,7 +10797,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10596,7 +10810,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10947,7 +11161,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -11223,7 +11437,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x26, script generated"
+		(property "Description" "26-pin Female D-SUB Connector"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11927,6 +12141,219 @@
 			)
 		)
 	)
+	(footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+		(layer "F.Cu")
+		(uuid "53494898-b1e3-4732-9287-999a872087f0")
+		(at 193.548 142.748 -90)
+		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+		(tags "capacitor handsolder")
+		(property "Reference" "C16"
+			(at 0 -1.16 90)
+			(layer "F.SilkS")
+			(uuid "7d1e28ad-efd6-4d2f-905c-fdf87c88edf8")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 0 1.16 90)
+			(layer "F.Fab")
+			(uuid "a7ac5f4c-a3ec-4bba-bdc3-c17463047d94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6eef848e-27db-4a38-870a-9390d5fdafed")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc21e90f-63f4-4dad-82d1-131790960669")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e9569ec-a0a9-44e3-b35a-24d1dd5e2c9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "C_*")
+		(path "/96caea5c-55e1-4289-b1a3-648865b52587")
+		(sheetname "Root")
+		(sheetfile "launchController_noTemp.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -0.115835 0.36)
+			(end 0.115835 0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "c1d1a79d-7c8f-4317-a0a0-1cf034ad4656")
+		)
+		(fp_line
+			(start -0.115835 -0.36)
+			(end 0.115835 -0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "21e0d16c-98fb-4f93-904c-3417b01bc7f3")
+		)
+		(fp_line
+			(start -1.08 0.46)
+			(end -1.08 -0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4ffd4f33-e3cf-44a8-8ed3-23c4b85dec0c")
+		)
+		(fp_line
+			(start 1.08 0.46)
+			(end -1.08 0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "eb92aabf-1569-4012-93f4-c9f3f0aab2e7")
+		)
+		(fp_line
+			(start -1.08 -0.46)
+			(end 1.08 -0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "4c74d0e2-1ee3-45cb-aa8c-0d2e34f252ee")
+		)
+		(fp_line
+			(start 1.08 -0.46)
+			(end 1.08 0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "93dace4c-2549-4d7f-ba6e-14d0e89a2f40")
+		)
+		(fp_line
+			(start -0.5 0.25)
+			(end -0.5 -0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "585f76af-1417-4d84-9a32-8bbd30ccf819")
+		)
+		(fp_line
+			(start 0.5 0.25)
+			(end -0.5 0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "258951af-52de-496e-8772-e4e5e78a461e")
+		)
+		(fp_line
+			(start -0.5 -0.25)
+			(end 0.5 -0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "95edb041-fd64-466c-9c43-1342d94e3582")
+		)
+		(fp_line
+			(start 0.5 -0.25)
+			(end 0.5 0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d87103e3-4841-49f9-b869-da77ec807382")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(uuid "cc2d9d87-3d5b-4522-bc20-fd2a2e3f7be2")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.5675 0 270)
+			(size 0.735 0.62)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 9 "/+5V")
+			(pintype "passive")
+			(uuid "91f8e4f4-cf8e-4e82-bdd3-7e3b6380ae48")
+		)
+		(pad "2" smd roundrect
+			(at 0.5675 0 270)
+			(size 0.735 0.62)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 2 "GND")
+			(pintype "passive")
+			(uuid "c702178d-d0ac-4174-bbbd-8e3b07398094")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Diode_SMD:D_SOD-923"
 		(layer "F.Cu")
 		(uuid "53a00787-f27e-4c3d-9bcb-82c8754d625d")
@@ -11944,7 +12371,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11969,7 +12396,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11982,7 +12409,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12309,7 +12736,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12347,7 +12774,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13097,7 +13524,7 @@
 				)
 			)
 		)
-		(property "Description" "25-pin male plug pin D-SUB connector"
+		(property "Description" "25-pin Female D-SUB connector"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13807,7 +14234,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.4 180)
 			(layer "F.Fab")
 			(uuid "b1845b86-ab50-44c7-87f5-b9bc61e41709")
@@ -13831,7 +14258,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e10b06-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1741064685584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpd1e10b06-q1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13844,7 +14271,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 5.5VWM 14VC 2X1SON"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14092,7 +14519,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "db16cc2e-e796-4c8e-b1f4-2c66ace4dd6c")
@@ -14304,7 +14731,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Buck Connector"
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14343,7 +14770,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN SOCKET 10POS 0.1 GOLD PCB"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14637,7 +15064,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxA"
+		(property "Value" "TVS Diode"
 			(at 0.1 1.9 0)
 			(layer "F.Fab")
 			(uuid "0b45d238-ada7-4d99-836d-b457a3838204")
@@ -14661,7 +15088,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tsd05.pdf?ts=1695321159953&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DTSD05DYFR%2526nr%253D3"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14674,7 +15101,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W unidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 5.5VWM 9VC SOD-323"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16898,7 +17325,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "09cfc162-67aa-4f00-8a3b-3d0d9e7fcc8a")
@@ -17110,7 +17537,7 @@
 				)
 			)
 		)
-		(property "Value" "ADS1015IDGS"
+		(property "Value" "ADS1115"
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17485,7 +17912,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 61 "/SCL")
+			(net 115 "/SCLB")
 			(pinfunction "SCL")
 			(pintype "input")
 			(solder_mask_margin 0.0508)
@@ -17498,7 +17925,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 68 "/SDA")
+			(net 68 "/SDAB")
 			(pinfunction "SDA")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.0508)
@@ -18262,7 +18689,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "4113e5f6-040d-453c-8622-f282fddd6cc7")
@@ -19157,7 +19584,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19182,7 +19609,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19195,7 +19622,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19522,7 +19949,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19560,7 +19987,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19900,7 +20327,7 @@
 				)
 			)
 		)
-		(property "Description" "25-pin male plug pin D-SUB connector"
+		(property "Description" "25-pin female D-SUB connector"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20610,7 +21037,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.4 0)
 			(layer "F.Fab")
 			(uuid "3bd4925f-9b21-46f7-9dcd-0d3d3477e63e")
@@ -20634,7 +21061,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e10b06-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1741064685584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpd1e10b06-q1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20647,7 +21074,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 5.5VWM 14VC 2X1SON"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21343,7 +21770,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "cc3fd26b-6f98-4c58-b437-d514d5d0a586")
@@ -21555,7 +21982,7 @@
 				)
 			)
 		)
-		(property "Value" "ADS1015IDGS"
+		(property "Value" "ADS1115"
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21930,7 +22357,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 61 "/SCL")
+			(net 115 "/SCLB")
 			(pinfunction "SCL")
 			(pintype "input")
 			(solder_mask_margin 0.0508)
@@ -21943,7 +22370,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 68 "/SDA")
+			(net 68 "/SDAB")
 			(pinfunction "SDA")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.0508)
@@ -22472,7 +22899,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "8a9e89c3-54c2-4e18-a489-50aa45f14c98")
@@ -22919,7 +23346,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -22957,7 +23384,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23194,7 +23621,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23232,7 +23659,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23728,7 +24155,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -24204,7 +24631,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "15cb8b01-266a-49d8-99e2-52e763558caa")
@@ -24417,7 +24844,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "81b1c66a-22c4-4a44-bc50-1361b1e8d267")
@@ -24630,7 +25057,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "10517bad-2f78-4b47-9e0e-9bbc8e2371ca")
@@ -25056,7 +25483,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 180)
 			(layer "F.Fab")
 			(uuid "493988f6-1291-4c38-a813-81799658289e")
@@ -25080,7 +25507,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25093,7 +25520,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25393,6 +25820,324 @@
 			(uuid "b6b26601-517b-4840-b16f-b9f1f8360181")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-923.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Package_SO:Texas_S-PDSO-G8_3x3mm_P0.65mm"
+		(layer "F.Cu")
+		(uuid "9e845f12-b399-4ddf-a2f9-633d8bc019f8")
+		(at 189.824 142.281)
+		(descr "plastic small outline, https://www.ti.com/lit/ml/mpds028d/mpds028d.pdf, https://www.ti.com/lit/ds/symlink/dac8552.pdf#page=23")
+		(tags "DGK VSSOP SO")
+		(property "Reference" "U3"
+			(at 0 -2.45 0)
+			(layer "F.SilkS")
+			(uuid "fe11ab70-3715-4643-bd16-5d0a3922368c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "TCA9517ADGK"
+			(at 0 2.45 0)
+			(layer "F.Fab")
+			(uuid "bfbe31d4-2e43-4c8e-b903-34f2cfe3536a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:Texas_S-PDSO-G8_3x3mm_P0.65mm"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9457c88-adfc-4970-a32d-e8bc588d1907")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tca9517a.pdf?ts=1741893153160&ref_url=https%253A%252F%252Fwww.google.com%252F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4bf4bddf-ede6-4a09-b324-166cb03d0870")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Level-Translating I2C Bus Buffer/Repeater"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9360f9cf-dee6-491d-ad2c-fcd37312c1b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "VSSOP*3x3mm*P0.65mm*")
+		(path "/98d4cc18-c814-497c-be9e-e7a4dbeb163d")
+		(sheetname "Root")
+		(sheetfile "launchController_noTemp.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start 0 -1.61)
+			(end -1.5 -1.61)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7e137940-9e94-4749-a3b8-fb0cc54e9e41")
+		)
+		(fp_line
+			(start 0 -1.61)
+			(end 1.5 -1.61)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "28a3b605-62fd-494f-bee8-acc54afee9e9")
+		)
+		(fp_line
+			(start 0 1.61)
+			(end -1.5 1.61)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "525561b8-687d-4439-b879-3e665a17518d")
+		)
+		(fp_line
+			(start 0 1.61)
+			(end 1.5 1.61)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "003f3158-ef9f-4ac1-a8ac-2b338d81670e")
+		)
+		(fp_poly
+			(pts
+				(xy -2.2 -1.46) (xy -2.44 -1.79) (xy -1.96 -1.79) (xy -2.2 -1.46)
+			)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "f08df9cf-ce09-4371-8ad3-9e19cfdb85c6")
+		)
+		(fp_line
+			(start -3.18 -1.75)
+			(end -3.18 1.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "5174b442-a2aa-4a09-9b2d-466b3ec717d6")
+		)
+		(fp_line
+			(start -3.18 1.75)
+			(end 3.18 1.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "44d23780-d9cb-4c22-b582-d72bf07af1a4")
+		)
+		(fp_line
+			(start 3.18 -1.75)
+			(end -3.18 -1.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "69771f88-7861-4171-b128-bf0b1b31eaa5")
+		)
+		(fp_line
+			(start 3.18 1.75)
+			(end 3.18 -1.75)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "17c9b4e2-81b6-42d9-82ed-993a8e308a05")
+		)
+		(fp_line
+			(start -1.5 -0.75)
+			(end -0.75 -1.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c1473bba-46e5-4671-bf00-9bcdd1474968")
+		)
+		(fp_line
+			(start -1.5 1.5)
+			(end -1.5 -0.75)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a2e70788-c447-49e7-b3eb-2796399c52c0")
+		)
+		(fp_line
+			(start -0.75 -1.5)
+			(end 1.5 -1.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "8ae91bc4-681a-402d-a9ae-72bb8fe66b36")
+		)
+		(fp_line
+			(start 1.5 -1.5)
+			(end 1.5 1.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "5de33330-b650-48e7-aea8-6ac7af78ee12")
+		)
+		(fp_line
+			(start 1.5 1.5)
+			(end -1.5 1.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "979e45bb-489c-4103-879d-0a4067f4f07a")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "5b4833f8-7528-4d46-a6e7-7f8aa6ed5639")
+			(effects
+				(font
+					(size 0.75 0.75)
+					(thickness 0.11)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -2.2 -0.975)
+			(size 1.45 0.45)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 56 "/+3.3V")
+			(pinfunction "VCCA")
+			(pintype "power_in")
+			(uuid "7e455f02-ba4e-47ca-a9fc-27dd233bccd5")
+		)
+		(pad "2" smd roundrect
+			(at -2.2 -0.325)
+			(size 1.45 0.45)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 61 "/SCLA")
+			(pinfunction "SCLA")
+			(pintype "bidirectional")
+			(uuid "fd9bfd52-4dbb-4232-b5b6-83b2c73cc56a")
+		)
+		(pad "3" smd roundrect
+			(at -2.2 0.325)
+			(size 1.45 0.45)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 59 "/SDAA")
+			(pinfunction "SDAA")
+			(pintype "bidirectional")
+			(uuid "b75fe952-2a6f-4b25-85b3-1147aba49558")
+		)
+		(pad "4" smd roundrect
+			(at -2.2 0.975)
+			(size 1.45 0.45)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 2 "GND")
+			(pinfunction "GND")
+			(pintype "power_in")
+			(uuid "6f34cf18-e203-485e-a892-35843cb35285")
+		)
+		(pad "5" smd roundrect
+			(at 2.2 0.975)
+			(size 1.45 0.45)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 56 "/+3.3V")
+			(pinfunction "EN")
+			(pintype "passive")
+			(uuid "c8b71691-2e4f-4595-bcaa-d33273181859")
+		)
+		(pad "6" smd roundrect
+			(at 2.2 0.325)
+			(size 1.45 0.45)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 68 "/SDAB")
+			(pinfunction "SDAB")
+			(pintype "bidirectional")
+			(uuid "e3e489e7-6167-4da8-96a6-dcc7aa255b3b")
+		)
+		(pad "7" smd roundrect
+			(at 2.2 -0.325)
+			(size 1.45 0.45)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 115 "/SCLB")
+			(pinfunction "SCLB")
+			(pintype "bidirectional")
+			(uuid "d8902a35-5678-41e3-9a7b-2c2988dba86d")
+		)
+		(pad "8" smd roundrect
+			(at 2.2 -0.975)
+			(size 1.45 0.45)
+			(layers "F.Cu" "F.Paste" "F.Mask")
+			(roundrect_rratio 0.25)
+			(net 9 "/+5V")
+			(pinfunction "VCCB")
+			(pintype "power_in")
+			(uuid "2a22c7b8-66c5-4f8c-879c-c39a6908ca5c")
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/Texas_S-PDSO-G8_3x3mm_P0.65mm.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27752,7 +28497,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "68dd0851-8c99-4e3f-8615-1c7ba73cb849")
@@ -28002,7 +28747,7 @@
 				)
 			)
 		)
-		(property "Description" "25-pin male plug pin D-SUB connector"
+		(property "Description" "25-pin Female D-SUB connector"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -28712,7 +29457,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.4 180)
 			(layer "F.Fab")
 			(uuid "2d77349a-84d0-4e8b-b61c-bc21ee4af6fd")
@@ -28736,7 +29481,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e10b06-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1741064685584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpd1e10b06-q1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28749,7 +29494,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 5.5VWM 14VC 2X1SON"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28997,7 +29742,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.4 0)
 			(layer "F.Fab")
 			(uuid "7887cf05-9316-4002-9beb-f8de0acb64fa")
@@ -29021,7 +29766,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e10b06-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1741064685584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpd1e10b06-q1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29034,7 +29779,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 5.5VWM 14VC 2X1SON"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29282,7 +30027,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "91c127ef-27aa-4886-b599-e289e7f6fd48")
@@ -29708,7 +30453,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 180)
 			(layer "F.Fab")
 			(uuid "01d4c7a5-7fc2-40ee-b645-4b0ef91d38d4")
@@ -29732,7 +30477,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29745,7 +30490,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31182,7 +31927,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 180)
 			(layer "F.Fab")
 			(uuid "5afbbcb3-29e7-41a7-b414-6aec4f0cbf70")
@@ -31206,7 +31951,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31219,7 +31964,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31760,7 +32505,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.2 180)
 			(layer "F.Fab")
 			(uuid "611d6afd-f947-4420-bc9c-f1458153ae98")
@@ -31784,7 +32529,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.comchiptech.com/admin/files/product/CPDQC3V3T-HF%20RevC430538.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31797,7 +32542,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 3.3VWM 6.2VC 0402C"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32124,7 +32869,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32162,7 +32907,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32637,7 +33382,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.com/datasheet/2/678/av02_1664en_ds_hlmp_yxxx_2014_07_26-1827951.pdf"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/50/SM0603PGC-3001706.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32848,7 +33593,7 @@
 				)
 			)
 		)
-		(property "Value" "5KPxxCA"
+		(property "Value" "TVS Diode"
 			(at 0 1.4 0)
 			(layer "F.Fab")
 			(uuid "fa234cc8-a110-43d8-bdaa-37ce4ff48f24")
@@ -32872,7 +33617,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/tl_files/diotec/files/pdf/datasheets/5kp65.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tpd1e10b06-q1.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1741064685584&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftpd1e10b06-q1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32885,7 +33630,7 @@
 				)
 			)
 		)
-		(property "Description" "5000W bidirectional Transient Voltage Suppressor, P-600"
+		(property "Description" "TVS DIODE 5.5VWM 14VC 2X1SON"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34488,7 +35233,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34526,7 +35271,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35000,7 +35745,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -35264,7 +36009,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -35748,9 +36493,9 @@
 			(drill 1.016)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 59 "unconnected-(J11-3V3-Pad1)_1")
+			(net 56 "/+3.3V")
 			(pinfunction "3V3")
-			(pintype "power_out+no_connect")
+			(pintype "power_out")
 			(uuid "25863145-ea00-4e6c-8cf0-d72bd74c08d2")
 		)
 		(pad "2" thru_hole circle
@@ -35770,7 +36515,7 @@
 			(drill 1.016)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 68 "/SDA")
+			(net 59 "/SDAA")
 			(pinfunction "SDA_I2C1/GPIO02")
 			(pintype "bidirectional")
 			(uuid "9aea3a21-34a5-42e1-bc1b-dd322445094d")
@@ -35792,7 +36537,7 @@
 			(drill 1.016)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 61 "/SCL")
+			(net 61 "/SCLA")
 			(pinfunction "SCL_I2C1/GPIO03")
 			(pintype "bidirectional")
 			(uuid "a4c5d545-4f00-437e-883a-180b192845fd")
@@ -35924,9 +36669,9 @@
 			(drill 1.016)
 			(layers "*.Cu" "*.Mask" "F.SilkS")
 			(remove_unused_layers no)
-			(net 56 "unconnected-(J11-3V3-Pad1)")
+			(net 56 "/+3.3V")
 			(pinfunction "3V3")
-			(pintype "passive+no_connect")
+			(pintype "passive")
 			(uuid "037d4d01-ed68-441f-a577-ea299968cec2")
 		)
 		(pad "18" thru_hole circle
@@ -36670,7 +37415,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "bb31af96-c2ba-41f5-9b9f-952c3ab54c12")
@@ -36882,7 +37627,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x05_Pin"
+		(property "Value" "Relay Connector"
 			(at 0 1 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36920,7 +37665,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated"
+		(property "Description" "CONN SOCKET 5POS 0.1 GOLD PCB"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37158,7 +37903,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "68700764-106d-42dd-903d-6c46ceaf747a")
@@ -37584,7 +38329,7 @@
 				)
 			)
 		)
-		(property "Value" "1100ohm"
+		(property "Value" "1100Ω"
 			(at 0 2.28 90)
 			(layer "F.Fab")
 			(uuid "f303b7e4-10c4-433a-a47a-a52a8c50c5e5")
@@ -37797,7 +38542,7 @@
 				)
 			)
 		)
-		(property "Value" "1100Ω"
+		(property "Value" "1100Ω"
 			(at 0 2.28 0)
 			(layer "F.Fab")
 			(uuid "42dd696e-61e3-439f-aba1-0a0fadcbd735")
@@ -38010,7 +38755,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "TVS Diode"
 			(at 0 2.4 0)
 			(layer "F.Fab")
 			(uuid "1906c640-aa8c-47dd-bd0b-c2d663e92e7b")
@@ -38033,7 +38778,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tsm24a-q1.pdf?ts=1741809653239&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTSM24A-Q1"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -38045,7 +38790,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated"
+		(property "Description" "Automotive, 24-V, unidirectional, TVS surge-protection diode"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -38297,7 +39042,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/ntb6412an-d.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1133/AO3400A_ds.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -43591,6 +44336,14 @@
 		(uuid "1ade7684-4a17-4f03-882e-2f0c845a96cd")
 	)
 	(segment
+		(start 187.375 153.476701)
+		(end 187.375 144.78)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "1af28e90-5fa6-4666-a3f8-1168f42d0a35")
+	)
+	(segment
 		(start 119.552012 172.1625)
 		(end 119.902012 172.5125)
 		(width 0.2)
@@ -43783,6 +44536,14 @@
 		(uuid "34e99613-e51d-4866-8270-2f94dcb01fed")
 	)
 	(segment
+		(start 185.928 143.333)
+		(end 187.375 144.78)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "364a391a-6a50-449f-9f9b-53ecd6357cea")
+	)
+	(segment
 		(start 112.34 178.56)
 		(end 112.34 175.449513)
 		(width 0.2)
@@ -43869,6 +44630,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "44ba3ce4-150f-4888-af20-f3c040a55632")
+	)
+	(segment
+		(start 188.063299 154.165)
+		(end 187.375 153.476701)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "44fce1e7-f195-4a97-9afa-0c3e0808dba1")
 	)
 	(segment
 		(start 191.144744 91.03)
@@ -43981,6 +44750,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "595a2bfd-c5e2-4c78-87e2-5991098cd8ed")
+	)
+	(segment
+		(start 193.548 143.3155)
+		(end 193.548 150.368)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "597a21b8-10bf-4be8-98b2-5f42280faf68")
 	)
 	(segment
 		(start 228.84 174.96)
@@ -44199,6 +44976,14 @@
 		(uuid "752be73b-ccf6-431f-96dc-b044b76c72f8")
 	)
 	(segment
+		(start 191.09 155.53)
+		(end 189.725 154.165)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "7587052a-4760-4ecf-86ed-a3fa52705ec7")
+	)
+	(segment
 		(start 217.261997 172.8125)
 		(end 217.261997 177.76)
 		(width 0.2)
@@ -44415,6 +45200,14 @@
 		(uuid "8f648004-0cb7-486f-a5e6-f0a1378695ef")
 	)
 	(segment
+		(start 185.928 143.3155)
+		(end 185.928 143.333)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "8ff39fc5-989f-4213-a1a5-2a4d14cb8dd5")
+	)
+	(segment
 		(start 197.69 178.19)
 		(end 197.69 178.76)
 		(width 0.2)
@@ -44501,6 +45294,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "98d4a641-310d-48df-a753-d6e341dd4bba")
+	)
+	(segment
+		(start 187.375 143.4655)
+		(end 187.6255 143.215)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "99360fab-3202-40a5-8f28-5f3d138f910b")
 	)
 	(segment
 		(start 255.275576 183.7)
@@ -44661,6 +45462,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "b86f4679-3cb5-4123-b3d0-cd41eb8b3741")
+	)
+	(segment
+		(start 187.375 144.78)
+		(end 187.375 143.4655)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "b8e741ee-b512-4bc3-b897-30380062bafb")
 	)
 	(segment
 		(start 139.427724 177.536284)
@@ -44837,6 +45646,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "cbda9086-9cbe-4d82-a470-ec8ffdba7188")
+	)
+	(segment
+		(start 189.725 154.165)
+		(end 188.063299 154.165)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "cd83e43a-3c53-4a7c-ac28-c97cb16809e7")
 	)
 	(segment
 		(start 135.737724 182.55)
@@ -45037,6 +45854,14 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "f065ba28-d6ca-4bb0-b0f8-e3bdbc24379c")
+	)
+	(segment
+		(start 193.548 150.368)
+		(end 196.17 152.99)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "f10c66c5-0c5b-44cf-bb23-5d35dac40cdb")
 	)
 	(segment
 		(start 257.705515 177.06)
@@ -45704,6 +46529,14 @@
 		(uuid "144b4035-6e5b-4da8-8dec-ed7862dacf96")
 	)
 	(segment
+		(start 180.54 150.93)
+		(end 180.54 144.16)
+		(width 0.4)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "14bff484-0905-4940-9341-65f569604c66")
+	)
+	(segment
 		(start 140.817724 182.55)
 		(end 140.817724 178.111285)
 		(width 0.2)
@@ -45792,14 +46625,6 @@
 		(uuid "1d8bc3a8-7056-49eb-a2f0-2b57e543b6e3")
 	)
 	(segment
-		(start 180.54 151.76)
-		(end 180.54 144.16)
-		(width 0.4)
-		(layer "F.Cu")
-		(net 9)
-		(uuid "1e8f7474-bf32-4e54-ad4c-4dc38f2c362d")
-	)
-	(segment
 		(start 238.138994 177.85)
 		(end 238.748994 178.46)
 		(width 0.2)
@@ -45830,6 +46655,14 @@
 		(layer "F.Cu")
 		(net 9)
 		(uuid "2816b996-0bdb-4f6d-b689-e07c4a880279")
+	)
+	(segment
+		(start 179.324 152.146)
+		(end 180.54 150.93)
+		(width 0.4)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "2996eebe-4560-48ec-820c-baf53e904cf9")
 	)
 	(segment
 		(start 295.923224 178.111285)
@@ -45926,6 +46759,14 @@
 		(layer "F.Cu")
 		(net 9)
 		(uuid "485b1630-9e7c-475e-aba6-1206e8a92ad8")
+	)
+	(segment
+		(start 192.827 141.265)
+		(end 191.8505 141.265)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "493e71c6-57bf-46a3-b362-687d6fbd9283")
 	)
 	(segment
 		(start 184.029738 155.53)
@@ -46134,6 +46975,14 @@
 		(layer "F.Cu")
 		(net 9)
 		(uuid "79f8ffe0-4caa-4289-a899-31357edb47fa")
+	)
+	(segment
+		(start 191.8505 141.265)
+		(end 191.8505 140.2885)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "7c430616-6798-4cef-bf78-a82fab4fac1f")
 	)
 	(segment
 		(start 293.04 169.86)
@@ -46352,12 +47201,28 @@
 		(uuid "a6be5446-2dc9-4490-abda-b5811789ca79")
 	)
 	(segment
+		(start 193.548 142.1805)
+		(end 193.548 141.986)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "ab9b013b-cd5b-436c-8eff-05c5ef7ecc94")
+	)
+	(segment
 		(start 244.428446 176.35)
 		(end 243.428446 175.35)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 9)
 		(uuid "ad2ba095-8a12-4aa6-85a2-84295ab003c9")
+	)
+	(segment
+		(start 193.548 141.986)
+		(end 192.827 141.265)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "af6309da-548b-49b8-ade7-2dad19aaa329")
 	)
 	(segment
 		(start 296.184509 177.85)
@@ -46624,7 +47489,7 @@
 		(uuid "00b00630-882c-49d6-a421-f29dcd578085")
 	)
 	(via
-		(at 180.54 151.76)
+		(at 179.324 152.146)
 		(size 1)
 		(drill 0.6)
 		(layers "F.Cu" "B.Cu")
@@ -46663,6 +47528,14 @@
 		(layers "F.Cu" "B.Cu")
 		(net 9)
 		(uuid "81f9a7d5-d82e-4afb-b248-844f42cb070d")
+	)
+	(via
+		(at 191.8505 140.2885)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net 9)
+		(uuid "937a60a0-24aa-4074-b06c-bc101b1423ca")
 	)
 	(via
 		(at 175.64 151.76)
@@ -46705,14 +47578,6 @@
 		(uuid "f2183930-b46b-43c0-9efc-605e3713a2be")
 	)
 	(segment
-		(start 165.94 180.56)
-		(end 165.94 166.36)
-		(width 0.3)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "013fc540-aaab-45ef-898d-734ee10038b6")
-	)
-	(segment
 		(start 178.34 118.46)
 		(end 178.34 116.26)
 		(width 0.8)
@@ -46735,14 +47600,6 @@
 		(layer "B.Cu")
 		(net 9)
 		(uuid "053a5c2c-cd20-40c9-bd3d-7ac8bd30874f")
-	)
-	(segment
-		(start 179.641718 182.55)
-		(end 177.731718 184.46)
-		(width 0.3)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "059027b2-7805-4c2c-8701-038c30e94963")
 	)
 	(segment
 		(start 180.54 127.76)
@@ -46793,6 +47650,22 @@
 		(uuid "1cbec1b8-f43a-4684-ad58-8851e12ce3c3")
 	)
 	(segment
+		(start 191.8505 131.1445)
+		(end 191.8505 128.5705)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "1db39df0-2dfb-4953-b128-57e9c947218b")
+	)
+	(segment
+		(start 165.94 180.56)
+		(end 169.84 184.46)
+		(width 0.3)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "247cd0c5-399b-4b24-8b5d-a8f7d344738b")
+	)
+	(segment
 		(start 145.54 147.96)
 		(end 145.44 148.06)
 		(width 0.2)
@@ -46833,12 +47706,20 @@
 		(uuid "3bb4c9bc-f18b-456d-94ec-73df68ee2c9e")
 	)
 	(segment
-		(start 165.94 166.36)
-		(end 179.04 153.26)
+		(start 178.34 115.06)
+		(end 191.533 128.253)
+		(width 0.6)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "3dd86909-5b60-4288-97d9-077b0d47075f")
+	)
+	(segment
+		(start 191.8505 128.5705)
+		(end 191.533 128.253)
 		(width 0.3)
 		(layer "B.Cu")
 		(net 9)
-		(uuid "4091e0bf-4a6a-4929-abf8-e20540fa7e94")
+		(uuid "408df710-c52b-4437-a59f-95505a74c03f")
 	)
 	(segment
 		(start 210.14 164.36)
@@ -46847,6 +47728,14 @@
 		(layer "B.Cu")
 		(net 9)
 		(uuid "40de5e76-b2b0-4902-8e30-226d6aa3c338")
+	)
+	(segment
+		(start 191.533 128.253)
+		(end 207.34 144.06)
+		(width 0.6)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "48c13a90-712e-4f44-9d3b-3afb28b45967")
 	)
 	(segment
 		(start 159.64 111.16)
@@ -46921,20 +47810,20 @@
 		(uuid "6c63c8f3-c267-4e26-949e-d7feed0eb716")
 	)
 	(segment
+		(start 179.324 152.146)
+		(end 165.94 165.53)
+		(width 0.3)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "6f71824c-2a96-4d06-a794-dbb91758ad47")
+	)
+	(segment
 		(start 169.8 111.16)
 		(end 171.34 111.16)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 9)
 		(uuid "7c0bcf2e-e0f9-4979-95fa-f9f7eaebbcd5")
-	)
-	(segment
-		(start 177.731718 184.46)
-		(end 170.34 184.46)
-		(width 0.3)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "7e1da7e6-6239-412d-87ee-0ee557601daa")
 	)
 	(segment
 		(start 178.34 116.26)
@@ -46969,20 +47858,28 @@
 		(uuid "88b701a7-7d26-4ee0-ae82-949e90c4a4ac")
 	)
 	(segment
+		(start 169.84 184.46)
+		(end 177.731718 184.46)
+		(width 0.3)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "89ddb292-bfdf-4fc4-800d-4d2108ea09f0")
+	)
+	(segment
+		(start 191.8505 131.1445)
+		(end 191.8505 140.2885)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "8edc6768-6761-4e7d-9ddc-2e13f9ee6f36")
+	)
+	(segment
 		(start 258.60923 184.06)
 		(end 278.14 184.06)
 		(width 0.3)
 		(layer "B.Cu")
 		(net 9)
 		(uuid "91363ddc-b34e-4e0c-aa9f-aec439bc1c65")
-	)
-	(segment
-		(start 178.34 115.06)
-		(end 207.34 144.06)
-		(width 0.6)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "9299c4d4-c322-4b4e-a454-bc03eda6e347")
 	)
 	(segment
 		(start 178.34 116.26)
@@ -47081,6 +47978,14 @@
 		(uuid "b46b6d08-0f82-4ac1-8fe8-36f32c31657d")
 	)
 	(segment
+		(start 165.94 165.53)
+		(end 165.94 180.56)
+		(width 0.3)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "b6679b04-9fab-400e-8d3a-0bb74b09c58b")
+	)
+	(segment
 		(start 165.7 115.26)
 		(end 169.8 111.16)
 		(width 0.2)
@@ -47121,20 +48026,20 @@
 		(uuid "c10a66b2-fd7b-461e-bb1d-55ac0bfff6fc")
 	)
 	(segment
-		(start 169.84 184.46)
-		(end 165.94 180.56)
-		(width 0.3)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "d1175555-a83a-4afa-ad78-5c35fc2d671d")
-	)
-	(segment
 		(start 200.663715 184.16)
 		(end 216.84 184.16)
 		(width 0.3)
 		(layer "B.Cu")
 		(net 9)
 		(uuid "d2f85843-c49d-4c23-b5e3-a225ba59fbfa")
+	)
+	(segment
+		(start 177.731718 184.46)
+		(end 179.641718 182.55)
+		(width 0.3)
+		(layer "B.Cu")
+		(net 9)
+		(uuid "dd8499e4-8eae-4dd0-a3eb-f796c668bd68")
 	)
 	(segment
 		(start 294.413224 184.06)
@@ -47167,22 +48072,6 @@
 		(layer "B.Cu")
 		(net 9)
 		(uuid "e11b4d70-8e8a-4920-b17f-5c13373ccf87")
-	)
-	(segment
-		(start 179.04 153.26)
-		(end 180.54 151.76)
-		(width 0.3)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "e5c9dc55-9da3-4277-b471-4168751fadb5")
-	)
-	(segment
-		(start 170.34 184.46)
-		(end 169.84 184.46)
-		(width 0.3)
-		(layer "B.Cu")
-		(net 9)
-		(uuid "e921e625-d88b-4848-9eca-0e8cb6e2da2a")
 	)
 	(segment
 		(start 168.74 144.26)
@@ -48817,60 +49706,140 @@
 		(uuid "d200bceb-8c5e-4360-ac3e-bdef7b02b5dc")
 	)
 	(segment
-		(start 191.09 131.01)
+		(start 188.763 141.265)
+		(end 186.813001 141.265)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 56)
+		(uuid "700304bf-b031-425f-be7a-8c37d4807f3f")
+	)
+	(segment
+		(start 191.8505 143.215)
+		(end 190.713 143.215)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 56)
+		(uuid "82f2ad64-71f5-45a1-a253-3087c0c4e6e6")
+	)
+	(segment
+		(start 186.01 152.99)
+		(end 185.318 152.298)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 56)
+		(uuid "9a4530dd-52b9-420e-a8bb-e9500eedc0ac")
+	)
+	(segment
+		(start 186.813001 141.265)
+		(end 186.01 142.068001)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 56)
+		(uuid "ad1895be-a987-419f-8c9a-739f3462d678")
+	)
+	(segment
+		(start 185.318 142.7905)
+		(end 185.928 142.1805)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 56)
+		(uuid "d227b802-9f36-4b79-a530-de89fb3f727b")
+	)
+	(segment
+		(start 190.713 143.215)
+		(end 188.763 141.265)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 56)
+		(uuid "d68cd302-8185-4597-be6a-d928f295920d")
+	)
+	(segment
+		(start 185.318 152.298)
+		(end 185.318 142.7905)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 56)
+		(uuid "da8ec069-450c-4584-9dbe-b2501fa63f0c")
+	)
+	(segment
+		(start 188.738 142.865001)
+		(end 188.738 152.802)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 59)
+		(uuid "36e9fde2-7edf-4d21-86e8-c9d5ff37315a")
+	)
+	(segment
+		(start 188.437999 142.565)
+		(end 188.738 142.865001)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 59)
+		(uuid "59ea9a74-2920-4103-8072-20df5bd1460c")
+	)
+	(segment
+		(start 188.738 152.802)
+		(end 188.55 152.99)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 59)
+		(uuid "d9f489d8-dd9f-4b55-91f4-7b0cd5f1ad7b")
+	)
+	(segment
+		(start 187.6255 142.565)
+		(end 188.437999 142.565)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 59)
+		(uuid "e7b26a60-65e0-4593-b5ae-415e3b0292d7")
+	)
+	(segment
+		(start 191.09 144.3335)
 		(end 191.09 152.99)
 		(width 0.3)
 		(layer "F.Cu")
 		(net 61)
-		(uuid "0499d005-3cf8-483f-8527-7568ec997849")
+		(uuid "9c1ff662-d446-4836-af14-2418fcb465c8")
 	)
 	(segment
-		(start 167.14 112.06)
-		(end 172.14 112.06)
+		(start 187.6255 141.915)
+		(end 188.437999 141.915)
 		(width 0.3)
 		(layer "F.Cu")
 		(net 61)
-		(uuid "19776ce0-72b4-4efe-81e7-2ab4579de18c")
+		(uuid "b4f3e733-8720-44e5-ba3e-9d685273cb5e")
 	)
 	(segment
-		(start 133.773 115.247)
-		(end 136.96 112.06)
+		(start 188.437999 141.915)
+		(end 188.6715 141.915)
 		(width 0.3)
 		(layer "F.Cu")
 		(net 61)
-		(uuid "334a3f97-f705-43de-814d-bbcd42631332")
+		(uuid "c9a0758a-81d1-47a2-b6a1-7971e2f51c86")
 	)
 	(segment
-		(start 172.14 112.06)
-		(end 191.09 131.01)
+		(start 188.6715 141.915)
+		(end 191.09 144.3335)
 		(width 0.3)
 		(layer "F.Cu")
 		(net 61)
-		(uuid "3f3d87aa-2c6b-4ab3-9a50-71f0aaaaf942")
+		(uuid "d3355e5d-1b4c-44eb-826c-1fa0e7dc38de")
 	)
 	(segment
-		(start 163.82 112.06)
-		(end 167.14 112.06)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 61)
-		(uuid "aba002cc-c6a8-4723-bef1-4c18732e882e")
-	)
-	(segment
-		(start 160.62 115.26)
-		(end 163.82 112.06)
+		(start 191.8505 142.565)
+		(end 190.825 142.565)
 		(width 0.3)
 		(layer "F.Cu")
-		(net 61)
-		(uuid "bfb3a967-e089-4acc-a335-56707ef7d6cd")
+		(net 68)
+		(uuid "03675ae8-bc60-451e-ac05-5a555cd3ed63")
 	)
 	(segment
-		(start 136.96 112.06)
-		(end 167.14 112.06)
+		(start 188.464 140.204)
+		(end 188.464 130.298)
 		(width 0.3)
 		(layer "F.Cu")
-		(net 61)
-		(uuid "c436dfa6-471c-4278-b21d-dffbd5abcc57")
+		(net 68)
+		(uuid "0557436e-abe2-4c21-9b70-4dfafe2b7b0a")
 	)
 	(segment
 		(start 161.367789 117.76)
@@ -48879,6 +49848,14 @@
 		(layer "F.Cu")
 		(net 68)
 		(uuid "0c41fcd9-c16c-4315-b146-6e6d6cbdeb1a")
+	)
+	(segment
+		(start 188.464 130.298)
+		(end 175.926 117.76)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 68)
+		(uuid "1bed9fed-bb0c-454b-9d76-890d5ec25574")
 	)
 	(segment
 		(start 159.34 115.732211)
@@ -48905,14 +49882,6 @@
 		(uuid "4253c3ff-5c53-4406-a822-fbde8b167062")
 	)
 	(segment
-		(start 188.55 152.99)
-		(end 188.55 132.17)
-		(width 0.3)
-		(layer "F.Cu")
-		(net 68)
-		(uuid "5e034d0c-d0b5-435a-ba5d-b9b0b4ca7de2")
-	)
-	(segment
 		(start 136.313 115.247)
 		(end 138.7 112.86)
 		(width 0.3)
@@ -48929,20 +49898,12 @@
 		(uuid "6b7c3cfe-9b43-420c-9e6b-e75576e398be")
 	)
 	(segment
-		(start 166.24 117.76)
-		(end 174.16 117.76)
+		(start 175.926 117.76)
+		(end 166.24 117.76)
 		(width 0.3)
 		(layer "F.Cu")
 		(net 68)
-		(uuid "6c72b6e7-78b2-46c1-8a0a-2677e1deafb2")
-	)
-	(segment
-		(start 174.16 117.78)
-		(end 188.55 132.17)
-		(width 0.3)
-		(layer "F.Cu")
-		(net 68)
-		(uuid "6ea18a6c-7c4c-419e-9a62-4f00b2f9eef3")
+		(uuid "a3adc90f-1464-4fd5-8cd9-ebbd7991b879")
 	)
 	(segment
 		(start 165.66 117.76)
@@ -48961,12 +49922,12 @@
 		(uuid "bbd08f7f-fc35-4e2c-b0f0-d443cc6c6e3b")
 	)
 	(segment
-		(start 174.16 117.76)
-		(end 174.16 117.78)
+		(start 190.825 142.565)
+		(end 188.464 140.204)
 		(width 0.3)
 		(layer "F.Cu")
 		(net 68)
-		(uuid "f9c829c8-e1d3-47ce-bc95-3e1809e13a39")
+		(uuid "e130dd27-4425-4cba-9f8f-c973bb94ba2d")
 	)
 	(segment
 		(start 128.985 92.590331)
@@ -50568,6 +51529,78 @@
 		(net 114)
 		(uuid "a42b5d05-047a-4793-9f64-008ca7ba9d04")
 	)
+	(segment
+		(start 167.14 112.06)
+		(end 172.14 112.06)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 115)
+		(uuid "19776ce0-72b4-4efe-81e7-2ab4579de18c")
+	)
+	(segment
+		(start 191.012784 141.915)
+		(end 191.8505 141.915)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 115)
+		(uuid "3225fc3c-5002-4e06-883a-f00037753c65")
+	)
+	(segment
+		(start 133.773 115.247)
+		(end 136.96 112.06)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 115)
+		(uuid "334a3f97-f705-43de-814d-bbcd42631332")
+	)
+	(segment
+		(start 189.552 129.472)
+		(end 189.552 140.454216)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 115)
+		(uuid "5dcc0690-5335-4084-ac4a-32ce047d2402")
+	)
+	(segment
+		(start 172.14 112.06)
+		(end 189.552 129.472)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 115)
+		(uuid "81e181b4-ea3f-4721-ba54-3cf343a963c3")
+	)
+	(segment
+		(start 189.552 140.454216)
+		(end 191.012784 141.915)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 115)
+		(uuid "87e1707e-3b4a-4744-b195-0c5dd5b1ea36")
+	)
+	(segment
+		(start 163.82 112.06)
+		(end 167.14 112.06)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 115)
+		(uuid "aba002cc-c6a8-4723-bef1-4c18732e882e")
+	)
+	(segment
+		(start 160.62 115.26)
+		(end 163.82 112.06)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 115)
+		(uuid "bfb3a967-e089-4acc-a335-56707ef7d6cd")
+	)
+	(segment
+		(start 136.96 112.06)
+		(end 167.14 112.06)
+		(width 0.3)
+		(layer "F.Cu")
+		(net 115)
+		(uuid "c436dfa6-471c-4278-b21d-dffbd5abcc57")
+	)
 	(zone
 		(net 2)
 		(net_name "GND")
@@ -51749,7 +52782,35 @@
 				(xy 110.752597 155.492251) (xy 110.947251 155.297597) (xy 111.016241 155.207687) (xy 111.833084 156.02453)
 				(xy 111.833085 156.02453) (xy 111.956102 155.879704) (xy 112.153875 155.588011) (xy 112.318947 155.276652)
 				(xy 112.318956 155.276634) (xy 112.449397 154.94925) (xy 112.449399 154.949243) (xy 112.543674 154.609693)
-				(xy 112.54368 154.609667) (xy 112.600691 154.261917) (xy 112.600693 154.2619) (xy 112.607732 154.13207)
+				(xy 112.54368 154.609667) (xy 112.600691 154.261917) (xy 112.600693 154.2619) (xy 112.619773 153.910002)
+				(xy 112.619773 153.909997) (xy 112.600693 153.558099) (xy 112.600691 153.558082) (xy 112.54368 153.210332)
+				(xy 112.543674 153.210306) (xy 112.449399 152.870756) (xy 112.449397 152.870749) (xy 112.318956 152.543365)
+				(xy 112.318947 152.543347) (xy 112.153875 152.231988) (xy 111.956102 151.940295) (xy 111.887898 151.859999)
+				(xy 114.261127 151.859999) (xy 114.261128 151.86) (xy 115.224314 151.86) (xy 115.21992 151.864394)
+				(xy 115.167259 151.955606) (xy 115.14 152.057339) (xy 115.14 152.162661) (xy 115.167259 152.264394)
+				(xy 115.21992 152.355606) (xy 115.224314 152.36) (xy 114.261128 152.36) (xy 114.31373 152.556317)
+				(xy 114.313734 152.556326) (xy 114.409865 152.762482) (xy 114.540342 152.94882) (xy 114.701179 153.109657)
+				(xy 114.887517 153.240134) (xy 115.093673 153.336265) (xy 115.093682 153.336269) (xy 115.289999 153.388872)
+				(xy 115.29 153.388871) (xy 115.29 152.425686) (xy 115.294394 152.43008) (xy 115.385606 152.482741)
+				(xy 115.487339 152.51) (xy 115.592661 152.51) (xy 115.694394 152.482741) (xy 115.785606 152.43008)
+				(xy 115.79 152.425686) (xy 115.79 153.388872) (xy 115.986317 153.336269) (xy 115.986326 153.336265)
+				(xy 116.192482 153.240134) (xy 116.37882 153.109657) (xy 116.539657 152.94882) (xy 116.670134 152.762482)
+				(xy 116.766265 152.556326) (xy 116.766269 152.556317) (xy 116.818872 152.36) (xy 115.855686 152.36)
+				(xy 115.86008 152.355606) (xy 115.912741 152.264394) (xy 115.94 152.162661) (xy 115.94 152.057339)
+				(xy 115.912741 151.955606) (xy 115.86008 151.864394) (xy 115.855686 151.86) (xy 116.818872 151.86)
+				(xy 116.818872 151.859999) (xy 116.792077 151.76) (xy 174.634659 151.76) (xy 174.653975 151.956129)
+				(xy 174.653976 151.956132) (xy 174.687646 152.067128) (xy 174.711188 152.144733) (xy 174.804086 152.318532)
+				(xy 174.80409 152.318539) (xy 174.929116 152.470883) (xy 175.08146 152.595909) (xy 175.081467 152.595913)
+				(xy 175.255266 152.688811) (xy 175.255269 152.688811) (xy 175.255273 152.688814) (xy 175.443868 152.746024)
+				(xy 175.64 152.765341) (xy 175.836132 152.746024) (xy 176.024727 152.688814) (xy 176.198538 152.59591)
+				(xy 176.350883 152.470883) (xy 176.47591 152.318538) (xy 176.568134 152.146) (xy 178.318659 152.146)
+				(xy 178.337975 152.342129) (xy 178.337976 152.342132) (xy 178.390906 152.516619) (xy 178.395188 152.530733)
+				(xy 178.488086 152.704532) (xy 178.48809 152.704539) (xy 178.613116 152.856883) (xy 178.76546 152.981909)
+				(xy 178.765467 152.981913) (xy 178.939266 153.074811) (xy 178.939269 153.074811) (xy 178.939273 153.074814)
+				(xy 179.127868 153.132024) (xy 179.324 153.151341) (xy 179.520132 153.132024) (xy 179.708727 153.074814)
+				(xy 179.70873 153.074812) (xy 179.714556 153.073045) (xy 179.714999 153.074505) (xy 179.776994 153.067831)
+				(xy 179.839479 153.099096) (xy 179.87514 153.159179) (xy 179.872658 153.229005) (xy 179.855316 153.262749)
+				(xy 179.749747 153.408053) (xy 179.633589 153.636024) (xy 179.633588 153.636027) (xy 179.554526 153.879359)
 				(xy 179.5145 154.13207) (xy 179.5145 154.387929) (xy 179.554526 154.64064) (xy 179.633588 154.883972)
 				(xy 179.633589 154.883975) (xy 179.74975 155.11195) (xy 179.900132 155.318935) (xy 179.900136 155.31894)
 				(xy 180.081059 155.499863) (xy 180.081064 155.499867) (xy 180.202385 155.588011) (xy 180.288053 155.650252)
@@ -51926,10 +52987,10 @@
 				(xy 240.379862 155.318942) (xy 240.530252 155.111947) (xy 240.64641 154.883975) (xy 240.725474 154.640639)
 				(xy 240.7655 154.38793) (xy 240.7655 154.13207) (xy 240.725474 153.879361) (xy 240.673506 153.719418)
 				(xy 240.646411 153.636027) (xy 240.64641 153.636024) (xy 240.586745 153.518927) (xy 240.530252 153.408053)
-				(xy 240.453142 153.30192) (xy 240.379867 153.201064) (xy 240.379863 153.201059) (xy 240.19894 153.020136)
+				(xy 240.424683 153.262749) (xy 240.379867 153.201064) (xy 240.379863 153.201059) (xy 240.19894 153.020136)
 				(xy 240.198935 153.020132) (xy 239.99195 152.86975) (xy 239.991949 152.869749) (xy 239.991947 152.869748)
-				(xy 239.855523 152.800236) (xy 239.763975 152.753589) (xy 239.763972 152.753588) (xy 239.52064 152.674526)
-				(xy 239.347753 152.647143) (xy 239.26793 152.6345) (xy 239.01207 152.6345) (xy 238.932247 152.647143)
+				(xy 239.911398 152.828706) (xy 239.763975 152.753589) (xy 239.763972 152.753588) (xy 239.52064 152.674526)
+				(xy 239.394284 152.654513) (xy 239.26793 152.6345) (xy 239.01207 152.6345) (xy 238.927833 152.647842)
 				(xy 238.759359 152.674526) (xy 238.516027 152.753588) (xy 238.516024 152.753589) (xy 238.288049 152.86975)
 				(xy 238.081064 153.020132) (xy 238.081059 153.020136) (xy 237.900136 153.201059) (xy 237.900132 153.201064)
 				(xy 237.74975 153.408049) (xy 237.633589 153.636024) (xy 237.633588 153.636027) (xy 237.554526 153.879359)
@@ -52100,13 +53161,16 @@
 				(xy 182.15747 155.529993) (xy 182.198942 155.499862) (xy 182.379862 155.318942) (xy 182.530252 155.111947)
 				(xy 182.64641 154.883975) (xy 182.725474 154.640639) (xy 182.7655 154.38793) (xy 182.7655 154.13207)
 				(xy 182.725474 153.879361) (xy 182.673506 153.719418) (xy 182.646411 153.636027) (xy 182.64641 153.636024)
-				(xy 182.586745 153.518927) (xy 182.530252 153.408053) (xy 182.453142 153.30192) (xy 182.379867 153.201064)
+				(xy 182.586745 153.518927) (xy 182.530252 153.408053) (xy 182.424683 153.262749) (xy 182.379867 153.201064)
 				(xy 182.379863 153.201059) (xy 182.19894 153.020136) (xy 182.198935 153.020132) (xy 181.99195 152.86975)
-				(xy 181.991949 152.869749) (xy 181.991947 152.869748) (xy 181.855523 152.800236) (xy 181.763975 152.753589)
-				(xy 181.763972 152.753588) (xy 181.52064 152.674525) (xy 181.347755 152.647143) (xy 181.28462 152.617214)
-				(xy 181.247689 152.557902) (xy 181.248687 152.488039) (xy 181.2713 152.446005) (xy 181.36377 152.33333)
-				(xy 181.37591 152.318538) (xy 181.468814 152.144727) (xy 181.526024 151.956132) (xy 181.545341 151.76)
-				(xy 181.526024 151.563868) (xy 181.508165 151.504994) (xy 304.024225 151.504994) (xy 304.024225 151.505005)
+				(xy 181.991949 152.869749) (xy 181.991947 152.869748) (xy 181.911398 152.828706) (xy 181.763975 152.753589)
+				(xy 181.763972 152.753588) (xy 181.52064 152.674526) (xy 181.394284 152.654513) (xy 181.26793 152.6345)
+				(xy 181.01207 152.6345) (xy 180.927833 152.647842) (xy 180.759359 152.674526) (xy 180.516027 152.753588)
+				(xy 180.516024 152.753589) (xy 180.342342 152.842086) (xy 180.273673 152.854982) (xy 180.208932 152.828706)
+				(xy 180.168675 152.771599) (xy 180.165683 152.701794) (xy 180.176689 152.673148) (xy 180.246871 152.541845)
+				(xy 180.252814 152.530727) (xy 180.310024 152.342132) (xy 180.329341 152.146) (xy 180.310024 151.949868)
+				(xy 180.252814 151.761273) (xy 180.252811 151.761269) (xy 180.252811 151.761266) (xy 180.159913 151.587467)
+				(xy 180.159909 151.58746) (xy 180.092231 151.504994) (xy 304.024225 151.504994) (xy 304.024225 151.505005)
 				(xy 304.043979 151.819004) (xy 304.04398 151.819011) (xy 304.102939 152.128083) (xy 304.200166 152.427316)
 				(xy 304.200168 152.427321) (xy 304.33413 152.712003) (xy 304.334133 152.712009) (xy 304.50272 152.977661)
 				(xy 304.502723 152.977665) (xy 304.703275 153.22009) (xy 304.703277 153.220092) (xy 304.703279 153.220094)
@@ -52133,40 +53197,12 @@
 				(xy 304.932647 149.574515) (xy 304.932637 149.574523) (xy 304.703277 149.789907) (xy 304.703275 149.789909)
 				(xy 304.502723 150.032334) (xy 304.50272 150.032338) (xy 304.334133 150.29799) (xy 304.33413 150.297996)
 				(xy 304.200168 150.582678) (xy 304.200166 150.582683) (xy 304.102939 150.881916) (xy 304.04398 151.190988)
-				(xy 304.043979 151.190995) (xy 304.024225 151.504994) (xy 181.508165 151.504994) (xy 181.468814 151.375273)
-				(xy 181.468811 151.375269) (xy 181.468811 151.375266) (xy 181.375913 151.201467) (xy 181.375909 151.20146)
-				(xy 181.250883 151.049116) (xy 181.098539 150.92409) (xy 181.098532 150.924086) (xy 180.924733 150.831188)
-				(xy 180.924727 150.831186) (xy 180.736132 150.773976) (xy 180.736129 150.773975) (xy 180.54 150.754659)
-				(xy 180.34387 150.773975) (xy 180.155266 150.831188) (xy 179.981467 150.924086) (xy 179.98146 150.92409)
-				(xy 179.829116 151.049116) (xy 179.70409 151.20146) (xy 179.704086 151.201467) (xy 179.611188 151.375266)
-				(xy 179.553975 151.56387) (xy 179.534659 151.76) (xy 179.553975 151.956129) (xy 179.553976 151.956132)
-				(xy 179.587646 152.067128) (xy 179.611188 152.144733) (xy 179.704086 152.318532) (xy 179.70409 152.318539)
-				(xy 179.829116 152.470883) (xy 179.98146 152.595909) (xy 179.981467 152.595913) (xy 180.057299 152.636446)
-				(xy 180.155273 152.688814) (xy 180.185978 152.698128) (xy 180.244415 152.736424) (xy 180.272872 152.800236)
-				(xy 180.262313 152.869303) (xy 180.222868 152.917106) (xy 180.081059 153.020136) (xy 179.900136 153.201059)
-				(xy 179.900132 153.201064) (xy 179.74975 153.408049) (xy 179.633589 153.636024) (xy 179.633588 153.636027)
-				(xy 179.554526 153.879359) (xy 179.5145 154.13207) (xy 112.607732 154.13207) (xy 112.619773 153.910002)
-				(xy 112.619773 153.909997) (xy 112.600693 153.558099) (xy 112.600691 153.558082) (xy 112.54368 153.210332)
-				(xy 112.543674 153.210306) (xy 112.449399 152.870756) (xy 112.449397 152.870749) (xy 112.318956 152.543365)
-				(xy 112.318947 152.543347) (xy 112.153875 152.231988) (xy 111.956102 151.940295) (xy 111.887898 151.859999)
-				(xy 114.261127 151.859999) (xy 114.261128 151.86) (xy 115.224314 151.86) (xy 115.21992 151.864394)
-				(xy 115.167259 151.955606) (xy 115.14 152.057339) (xy 115.14 152.162661) (xy 115.167259 152.264394)
-				(xy 115.21992 152.355606) (xy 115.224314 152.36) (xy 114.261128 152.36) (xy 114.31373 152.556317)
-				(xy 114.313734 152.556326) (xy 114.409865 152.762482) (xy 114.540342 152.94882) (xy 114.701179 153.109657)
-				(xy 114.887517 153.240134) (xy 115.093673 153.336265) (xy 115.093682 153.336269) (xy 115.289999 153.388872)
-				(xy 115.29 153.388871) (xy 115.29 152.425686) (xy 115.294394 152.43008) (xy 115.385606 152.482741)
-				(xy 115.487339 152.51) (xy 115.592661 152.51) (xy 115.694394 152.482741) (xy 115.785606 152.43008)
-				(xy 115.79 152.425686) (xy 115.79 153.388872) (xy 115.986317 153.336269) (xy 115.986326 153.336265)
-				(xy 116.192482 153.240134) (xy 116.37882 153.109657) (xy 116.539657 152.94882) (xy 116.670134 152.762482)
-				(xy 116.766265 152.556326) (xy 116.766269 152.556317) (xy 116.818872 152.36) (xy 115.855686 152.36)
-				(xy 115.86008 152.355606) (xy 115.912741 152.264394) (xy 115.94 152.162661) (xy 115.94 152.057339)
-				(xy 115.912741 151.955606) (xy 115.86008 151.864394) (xy 115.855686 151.86) (xy 116.818872 151.86)
-				(xy 116.818872 151.859999) (xy 116.792077 151.76) (xy 174.634659 151.76) (xy 174.653975 151.956129)
-				(xy 174.653976 151.956132) (xy 174.687646 152.067128) (xy 174.711188 152.144733) (xy 174.804086 152.318532)
-				(xy 174.80409 152.318539) (xy 174.929116 152.470883) (xy 175.08146 152.595909) (xy 175.081467 152.595913)
-				(xy 175.255266 152.688811) (xy 175.255269 152.688811) (xy 175.255273 152.688814) (xy 175.443868 152.746024)
-				(xy 175.64 152.765341) (xy 175.836132 152.746024) (xy 176.024727 152.688814) (xy 176.198538 152.59591)
-				(xy 176.350883 152.470883) (xy 176.47591 152.318538) (xy 176.568814 152.144727) (xy 176.626024 151.956132)
+				(xy 304.043979 151.190995) (xy 304.024225 151.504994) (xy 180.092231 151.504994) (xy 180.034883 151.435116)
+				(xy 179.882539 151.31009) (xy 179.882532 151.310086) (xy 179.708733 151.217188) (xy 179.708727 151.217186)
+				(xy 179.520132 151.159976) (xy 179.520129 151.159975) (xy 179.324 151.140659) (xy 179.12787 151.159975)
+				(xy 178.939266 151.217188) (xy 178.765467 151.310086) (xy 178.76546 151.31009) (xy 178.613116 151.435116)
+				(xy 178.48809 151.58746) (xy 178.488086 151.587467) (xy 178.395188 151.761266) (xy 178.337975 151.94987)
+				(xy 178.318659 152.146) (xy 176.568134 152.146) (xy 176.568814 152.144727) (xy 176.626024 151.956132)
 				(xy 176.645341 151.76) (xy 176.626024 151.563868) (xy 176.568814 151.375273) (xy 176.568811 151.375269)
 				(xy 176.568811 151.375266) (xy 176.475913 151.201467) (xy 176.475909 151.20146) (xy 176.350883 151.049116)
 				(xy 176.198539 150.92409) (xy 176.198532 150.924086) (xy 176.024733 150.831188) (xy 176.024727 150.831186)
@@ -52812,7 +53848,19 @@
 				(xy 107.257589 144.578946) (xy 107.25758 144.578954) (xy 107.001685 144.82135) (xy 106.773505 145.089983)
 				(xy 106.773498 145.089993) (xy 106.575695 145.38173) (xy 106.410597 145.693137) (xy 106.410588 145.693155)
 				(xy 106.280127 146.020589) (xy 106.280126 146.020591) (xy 106.185834 146.360203) (xy 106.185833 146.360206)
-				(xy 106.128808 146.708045) (xy 106.109726 147.059997) (xy 96.5405 147.059997) (xy 96.5405 137.135441)
+				(xy 106.128808 146.708045) (xy 106.109726 147.059997) (xy 96.5405 147.059997) (xy 96.5405 140.288496)
+				(xy 191.044935 140.288496) (xy 191.044935 140.288503) (xy 191.06513 140.467749) (xy 191.065131 140.467754)
+				(xy 191.124711 140.638023) (xy 191.220684 140.790762) (xy 191.348238 140.918316) (xy 191.500978 141.014289)
+				(xy 191.668004 141.072734) (xy 191.671245 141.073868) (xy 191.67125 141.073869) (xy 191.850496 141.094065)
+				(xy 191.8505 141.094065) (xy 191.850504 141.094065) (xy 192.029749 141.073869) (xy 192.029752 141.073868)
+				(xy 192.029755 141.073868) (xy 192.200022 141.014289) (xy 192.352762 140.918316) (xy 192.480316 140.790762)
+				(xy 192.576289 140.638022) (xy 192.635868 140.467755) (xy 192.643566 140.399437) (xy 192.656065 140.288503)
+				(xy 192.656065 140.288496) (xy 192.635869 140.10925) (xy 192.635868 140.109245) (xy 192.609904 140.035045)
+				(xy 192.576289 139.938978) (xy 192.480316 139.786238) (xy 192.352762 139.658684) (xy 192.228908 139.580861)
+				(xy 192.200023 139.562711) (xy 192.029754 139.503131) (xy 192.029749 139.50313) (xy 191.850504 139.482935)
+				(xy 191.850496 139.482935) (xy 191.67125 139.50313) (xy 191.671245 139.503131) (xy 191.500976 139.562711)
+				(xy 191.348237 139.658684) (xy 191.220684 139.786237) (xy 191.124711 139.938976) (xy 191.065131 140.109245)
+				(xy 191.06513 140.10925) (xy 191.044935 140.288496) (xy 96.5405 140.288496) (xy 96.5405 137.135441)
 				(xy 105.8395 137.135441) (xy 105.8395 137.384558) (xy 105.839501 137.384575) (xy 105.871737 137.629437)
 				(xy 105.872018 137.631565) (xy 105.904473 137.75269) (xy 105.936498 137.872207) (xy 106.03183 138.102361)
 				(xy 106.031837 138.102376) (xy 106.1564 138.318126) (xy 106.30806 138.515774) (xy 106.308066 138.515781)
@@ -56151,12 +57199,7 @@
 				(xy 304.703277 149.789907) (xy 304.703275 149.789909) (xy 304.502723 150.032334) (xy 304.50272 150.032338)
 				(xy 304.334133 150.29799) (xy 304.33413 150.297996) (xy 304.200168 150.582678) (xy 304.200166 150.582683)
 				(xy 304.102937 150.881921) (xy 304.087149 150.964682) (xy 304.05525 151.026844) (xy 303.994807 151.061893)
-				(xy 303.965402 151.065444) (xy 181.36874 151.121196) (xy 181.301692 151.101542) (xy 181.272831 151.075861)
-				(xy 181.250883 151.049117) (xy 181.250881 151.049115) (xy 181.098539 150.92409) (xy 181.098532 150.924086)
-				(xy 180.924733 150.831188) (xy 180.924727 150.831186) (xy 180.736132 150.773976) (xy 180.736129 150.773975)
-				(xy 180.54 150.754659) (xy 180.34387 150.773975) (xy 180.155266 150.831188) (xy 179.981467 150.924086)
-				(xy 179.98146 150.92409) (xy 179.829115 151.049117) (xy 179.806547 151.076616) (xy 179.7488 151.115949)
-				(xy 179.710752 151.121949) (xy 176.470568 151.123423) (xy 176.40352 151.103769) (xy 176.374658 151.078087)
+				(xy 303.965402 151.065444) (xy 176.470568 151.123423) (xy 176.40352 151.103769) (xy 176.374658 151.078087)
 				(xy 176.350882 151.049116) (xy 176.198539 150.92409) (xy 176.198532 150.924086) (xy 176.024733 150.831188)
 				(xy 176.024727 150.831186) (xy 175.836132 150.773976) (xy 175.836129 150.773975) (xy 175.64 150.754659)
 				(xy 175.44387 150.773975) (xy 175.255266 150.831188) (xy 175.081467 150.924086) (xy 175.08146 150.92409)
@@ -56792,7 +57835,19 @@
 				(xy 107.782749 145.672403) (xy 107.713759 145.762312) (xy 106.896914 144.945467) (xy 106.773896 145.090297)
 				(xy 106.576124 145.381988) (xy 106.411052 145.693347) (xy 106.411043 145.693365) (xy 106.280602 146.020749)
 				(xy 106.2806 146.020756) (xy 106.186325 146.360306) (xy 106.186319 146.360332) (xy 106.129308 146.708082)
-				(xy 106.129306 146.708099) (xy 106.110227 147.059997) (xy 96.5405 147.059997) (xy 96.5405 137.135441)
+				(xy 106.129306 146.708099) (xy 106.110227 147.059997) (xy 96.5405 147.059997) (xy 96.5405 140.288496)
+				(xy 191.044935 140.288496) (xy 191.044935 140.288503) (xy 191.06513 140.467749) (xy 191.065131 140.467754)
+				(xy 191.124711 140.638023) (xy 191.220684 140.790762) (xy 191.348238 140.918316) (xy 191.500978 141.014289)
+				(xy 191.668004 141.072734) (xy 191.671245 141.073868) (xy 191.67125 141.073869) (xy 191.850496 141.094065)
+				(xy 191.8505 141.094065) (xy 191.850504 141.094065) (xy 192.029749 141.073869) (xy 192.029752 141.073868)
+				(xy 192.029755 141.073868) (xy 192.200022 141.014289) (xy 192.352762 140.918316) (xy 192.480316 140.790762)
+				(xy 192.576289 140.638022) (xy 192.635868 140.467755) (xy 192.643566 140.399437) (xy 192.656065 140.288503)
+				(xy 192.656065 140.288496) (xy 192.635869 140.10925) (xy 192.635868 140.109245) (xy 192.609904 140.035045)
+				(xy 192.576289 139.938978) (xy 192.480316 139.786238) (xy 192.352762 139.658684) (xy 192.228908 139.580861)
+				(xy 192.200023 139.562711) (xy 192.029754 139.503131) (xy 192.029749 139.50313) (xy 191.850504 139.482935)
+				(xy 191.850496 139.482935) (xy 191.67125 139.50313) (xy 191.671245 139.503131) (xy 191.500976 139.562711)
+				(xy 191.348237 139.658684) (xy 191.220684 139.786237) (xy 191.124711 139.938976) (xy 191.065131 140.109245)
+				(xy 191.06513 140.10925) (xy 191.044935 140.288496) (xy 96.5405 140.288496) (xy 96.5405 137.135441)
 				(xy 105.8395 137.135441) (xy 105.8395 137.384558) (xy 105.839501 137.384575) (xy 105.871737 137.629437)
 				(xy 105.872018 137.631565) (xy 105.904473 137.75269) (xy 105.936498 137.872207) (xy 106.03183 138.102361)
 				(xy 106.031837 138.102376) (xy 106.1564 138.318126) (xy 106.30806 138.515774) (xy 106.308066 138.515781)
