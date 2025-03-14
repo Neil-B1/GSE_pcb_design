@@ -1713,6 +1713,139 @@
 				)
 			)
 		)
+		(symbol "Device:Fuse"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "F"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Fuse"
+				(at -1.905 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fuse"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "fuse"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*Fuse*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Fuse_0_1"
+				(rectangle
+					(start -0.762 -2.54)
+					(end 0.762 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Fuse_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:LED"
 			(pin_numbers hide)
 			(pin_names
@@ -4095,6 +4228,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 36.83) (xy 152.4 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "019228b7-af92-496e-88be-081fed4d8786")
+	)
+	(wire
+		(pts
 			(xy 78.74 55.88) (xy 81.28 55.88)
 		)
 		(stroke
@@ -4325,13 +4468,13 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 36.83) (xy 153.67 36.83)
+			(xy 152.4 36.83) (xy 152.4 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bec7b33c-1c88-4ac9-9c88-9d884d1b2e29")
+		(uuid "c2613c79-7c83-462b-856d-cb6241de4f83")
 	)
 	(wire
 		(pts
@@ -4411,7 +4554,7 @@
 	)
 	(text "MOUNTING HOLES"
 		(exclude_from_sim no)
-		(at 176.784 57.15 0)
+		(at 177.038 60.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4421,7 +4564,7 @@
 	)
 	(text "RELAY CONNECTOR"
 		(exclude_from_sim no)
-		(at 178.054 19.05 0)
+		(at 178.054 23.114 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4431,7 +4574,7 @@
 	)
 	(text "RELAY SWITCH CIRCUIT"
 		(exclude_from_sim no)
-		(at 30.988 18.796 0)
+		(at 30.734 23.876 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4473,7 +4616,7 @@
 		(uuid "5e18a95d-55a0-4926-b1e2-3638663e0182")
 	)
 	(label "RelayIn"
-		(at 153.67 36.83 0)
+		(at 152.4 27.94 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4481,7 +4624,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "72fc0d7b-b9d2-4fd2-9d58-e70990ba6db9")
+		(uuid "627d95e5-3bde-4199-a589-f23ea2d1ba57")
 	)
 	(label "RelayOut"
 		(at 177.8 41.91 0)
@@ -4583,6 +4726,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Fuse")
+		(at 152.4 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d00b9e7-90bc-49ca-94f5-828bc1364735")
+		(property "Reference" "F1"
+			(at 154.94 30.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fuse"
+			(at 154.94 33.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+			(at 150.622 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fuse"
+			(at 152.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3a9ec258-71c8-4df9-b351-9d66dcaeaf43")
+		)
+		(pin "1"
+			(uuid "f94a39d0-4999-44c4-8657-3511419c578a")
+		)
+		(instances
+			(project ""
+				(path "/17917494-3591-49e5-9749-7de8031f33d3"
+					(reference "F1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CRCW060310K0DHEAP:CRCW060310K0DHEAP")
 		(at 45.72 60.96 90)
 		(unit 1)
@@ -4609,7 +4822,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CRCW060310K0DHEAP:RESC1508X50N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.72 60.96 0)
 			(effects
 				(font
@@ -4825,7 +5038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RC0603FR-07330RL:RESC1607X60N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 67.31 31.75 0)
 			(effects
 				(font
@@ -5340,7 +5553,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CRCW0402140RFKEDC:RESC1005X35N"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 34.29 60.96 0)
 			(effects
 				(font
@@ -6511,7 +6724,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "AC0603JR-07100RL:RESC1608X55N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 55.88 66.04 0)
 			(effects
 				(font
@@ -6726,7 +6939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AC0603JR-07100RL:RESC1608X55N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 91.44 55.88 0)
 			(effects
 				(font
