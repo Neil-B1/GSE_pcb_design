@@ -1,0 +1,13 @@
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-F_Cu.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-GND_Cu.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-PWR_Cu.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-B_Cu.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-F_Paste.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-B_Paste.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-F_Silkscreen.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-B_Silkscreen.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-F_Mask.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-B_Mask.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/launchController/launchController_noTemp-job.gbrjob'.
+Info: Done.
