@@ -2553,7 +2553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://precidip.com/product/310-87-110-41-001101/"
 			(at 39.37 63.5 0)
 			(effects
 				(font
