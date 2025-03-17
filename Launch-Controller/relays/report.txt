@@ -1,0 +1,11 @@
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-F_Cu.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-B_Cu.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-F_Paste.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-B_Paste.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-F_Silkscreen.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-B_Silkscreen.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-F_Mask.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-B_Mask.gbr'.
+Plotted to '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/cooperreynolds/Documents/SARP/GSE/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-job.gbrjob'.
+Info: Done.
