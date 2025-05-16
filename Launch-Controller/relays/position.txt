@@ -1,0 +1,6 @@
+Info: Front (top side) placement file: '/Users/cooperreynolds/Documents/SARP/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-top-pos.csv'.
+Info: Component count: 4.
+Info: Back (bottom side) placement file: '/Users/cooperreynolds/Documents/SARP/GSE_pcb_design/Launch-Controller/relays/RelaySwitchCompact-bottom-pos.csv'.
+Info: Component count: 8.
+Info: Full component count: 12.
+Info: File generation successful.

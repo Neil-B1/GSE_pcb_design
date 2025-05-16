@@ -1,0 +1,689 @@
+%PDF-1.5
+%ÄÅÇÉ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+x⁄•ëM
+1Ö˜säú $m“§'\Í\‚l‹x}ß*8)Ö4Ø|yIâ,µÛ	O=0Ïá{y)p;øÉ√≥)pÔ⁄JÜ+◊·≥àxERev»ÆÆÿBfË;ﬁ9∑ÙTªv«®óÇ)ëÜEì9JRÆ÷X„:-`%œåfµ&^∞ûöö8Â_|©π	∫≥WZÙ8ˆºµ«9+úe¿
+g“È?`Öª˙s^s_·é∑≥‚Ω4÷∫òô
+endstream
+endobj
+6 0 obj
+186
+endobj
+20 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R]
+endobj
+21 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 20 0 R>>
+endobj
+22 0 obj
+<</S /GoTo /D [21 0 R /Fit]
+>>
+endobj
+25 0 obj
+<</S /GoTo /D [21 0 R /FitR 400 353 525 253]
+>>
+endobj
+27 0 obj
+<</S /GoTo /D [21 0 R /FitR 373 348 489 255]
+>>
+endobj
+29 0 obj
+<</S /GoTo /D [21 0 R /FitR 483 345 509 265]
+>>
+endobj
+31 0 obj
+<</S /GoTo /D [21 0 R /FitR 491 331 536 277]
+>>
+endobj
+33 0 obj
+<</S /GoTo /D [21 0 R /FitR 489 306 506 259]
+>>
+endobj
+35 0 obj
+<</S /GoTo /D [21 0 R /FitR 408 322 507 292]
+>>
+endobj
+37 0 obj
+<</S /GoTo /D [21 0 R /FitR 463 360 518 249]
+>>
+endobj
+39 0 obj
+<</S /GoTo /D [21 0 R /FitR 452 290 473 274]
+>>
+endobj
+41 0 obj
+<</S /GoTo /D [21 0 R /FitR 435 330 450 304]
+>>
+endobj
+43 0 obj
+<</S /GoTo /D [21 0 R /FitR 484 303 499 273]
+>>
+endobj
+45 0 obj
+<</S /GoTo /D [21 0 R /FitR 465 328 485 312]
+>>
+endobj
+47 0 obj
+<</S /GoTo /D [21 0 R /FitR 464 314 479 283]
+>>
+endobj
+49 0 obj
+<</S /GoTo /D [21 0 R /FitR 440 370 478 260]
+>>
+endobj
+51 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+52 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+53 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+54 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 51 0 R
+    /KicadFontI 52 0 R
+    /KicadFontB 53 0 R
+    /KicadFontBI 54 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [438.307 279.446 494.291 328.272]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = K1"],
+["Value = 1-1721150-0"],
+["Footprint = RELAY_1-1721150-0"],
+["https://www.te.com/en/product-1-1721150-0.datasheet.pdf", "https://www.te.com/en/product-1-1721150-0.datasheet.pdf"],
+["Description = General Purpose Power Relay, DC, Monostable, 1 Form C SPDT-CO, 15 A Contact Rating, 5 VDC Coil Voltage, SCHRACK Miniature PCB Relay ORWH"],
+["Comment = 1-1721150-0"],
+["MF = TE Connectivity"],
+["MAXIMUM_PACKAGE_HEIGHT = 15.0mm"],
+["Package = None"],
+["Price = None"],
+["https://www.snapeda.com/parts/1-1721150-0/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=eda", "https://www.snapeda.com/parts/1-1721150-0/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=eda"],
+["STANDARD = Manufacturer recommendations"],
+["PARTREV = D"],
+["https://www.snapeda.com/parts/1-1721150-0/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=snap", "https://www.snapeda.com/parts/1-1721150-0/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=snap"],
+["MP = 1-1721150-0"],
+["EU_RoHS_Compliance = Compliant"],
+["Description_1 = 
+                        
+                            General Purpose Relay SPDT \\u00281 Form C\\u0029 5VDC Coil Through Hole
+                        
+"],
+["Availability = In Stock"],
+["MANUFACTURER = TE Connectivity"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [426.543 282.819 436.89 321.937]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J1"],
+["Value = 350-10-105-00-001101"],
+["Footprint = PinHeader_1x05_P2.54mm_Vertical"],
+["https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6642/350_Datasheet.pdf", "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6642/350_Datasheet.pdf"],
+["Description = Connector Header Through Hole 5 position 0.100" \\u00282.54mm\\u0029"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [496.63 311.761 502.628 325.296]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = LED2"],
+["Value = HSMG-C170"],
+["Footprint = LED_HSMS-C170"],
+["https://docs.broadcom.com/doc/AV02-0551EN", "https://docs.broadcom.com/doc/AV02-0551EN"],
+["Description = Green 572nm LED Indication - Discrete 2.2V 0805 \\u00282012 Metric\\u0029"],
+["MF = Broadcom Limited"],
+["MAXIMUM_PACKAGE_HEIGHT = 0.8mm"],
+["Package = 0805 Broadcom Limited"],
+["Price = None"],
+["https://www.snapeda.com/parts/HSMG-C170/Broadcom+Limited/view-part/?ref=eda", "https://www.snapeda.com/parts/HSMG-C170/Broadcom+Limited/view-part/?ref=eda"],
+["STANDARD = Manufacturer Recommendations"],
+["PARTREV = March 25, 2022"],
+["https://www.snapeda.com/parts/HSMG-C170/Broadcom+Limited/view-part/?ref=snap", "https://www.snapeda.com/parts/HSMG-C170/Broadcom+Limited/view-part/?ref=snap"],
+["MP = HSMG-C170"],
+["Description_1 = 
+                        
+                            Green 572nm LED Indication - Discrete 2.2V 0805 \\u00282012 Metric\\u0029
+                        
+"],
+["MANUFACTURER = Broadcom"],
+["Availability = In Stock"],
+["SNAPEDA_PN = HSMG-C170"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [502.54 290.642 525.076 313.178]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = H1"],
+["Value = MountingHole_Pad"],
+["Footprint = MountingHole_3.7mm_Pad"],
+["Description = Mounting Hole with connection"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [497.268 285.186 501.908 295.008]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = LED1"],
+["Value = LED"],
+["Footprint = LED_SML-D12V1WT86"],
+["https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12v1wt86-e.pdf", "https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12v1wt86-e.pdf"],
+["Description = Red 630nm LED Indication - Discrete 2.2V 0603 \\u00281608 Metric\\u0029"],
+]\);) >>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [470.339 305.241 482.882 315.378]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U2"],
+["Value = FMMT634QTA"],
+["Footprint = VREG_XC6206P282MR-G"],
+["https://www.diodes.com/assets/Datasheets/FMMT634Q.pdf", "https://www.diodes.com/assets/Datasheets/FMMT634Q.pdf"],
+["Description = Bipolar \\u0028BJT\\u0029 Transistor NPN - Darlington 100 V 900 mA 140MHz 806 mW Surface Mount SOT-23-3"],
+["Sim.Device = NPN"],
+["Sim.Type = GUMMELPOON"],
+["Sim.Pins = 1=C 2=B 3=E"],
+]\);) >>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [492.593 288.734 501.233 310.553]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = D1"],
+["Value = RS1M-13-F"],
+["Footprint = SMA_DIO-M"],
+["https://www.diodes.com/assets/Datasheets/ds15002.pdf", "https://www.diodes.com/assets/Datasheets/ds15002.pdf"],
+["Description = Diode 1000 V 1A Surface Mount SMA"],
+["MF = Diodes Inc."],
+["Description_1 = 
+                        
+                            Diode Switching 1KV 1A 2Pin SMA | Diodes Inc RS1M-13-F
+                        
+"],
+["COPYRIGHT = Copyright \\u0028C\\u0029 2023 Ultra Librarian. All rights reserved."],
+["Package = DO-214 Diodes Inc."],
+["Price = None"],
+["https://www.snapeda.com/parts/RS1M-13-F/Diodes+Inc./view-part/?ref=eda", "https://www.snapeda.com/parts/RS1M-13-F/Diodes+Inc./view-part/?ref=eda"],
+["Availability = In Stock"],
+["https://www.snapeda.com/parts/RS1M-13-F/Diodes+Inc./view-part/?ref=snap", "https://www.snapeda.com/parts/RS1M-13-F/Diodes+Inc./view-part/?ref=snap"],
+["MP = RS1M-13-F"],
+["MFR_NAME = Diodes Inc"],
+["MANUFACTURER_PART_NUMBER = RS1M-13-F"],
+]\);) >>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [462.926 282.989 468.539 286.249]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R4"],
+["Value = 68R"],
+["Footprint = RESC1005X35N"],
+["https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf", "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"],
+["Description = 68 Ohms \\u00B15% 0.1W, 1/10W Chip Resistor 0603 \\u00281608 Metric\\u0029 Automotive AEC-Q200 Thick Film"],
+["MF = Vishay"],
+["Description_1 = 
+                        
+                            140 Ohms \\u00B11% 0.063W, 1/16W Chip Resistor 0402 \\u00281005 Metric\\u0029  Thick Film
+                        
+"],
+["Package = 1005 Yageo"],
+["Price = None"],
+["https://www.snapeda.com/parts/CRCW0402140RFKEDC/Vishay/view-part/?ref=snap", "https://www.snapeda.com/parts/CRCW0402140RFKEDC/Vishay/view-part/?ref=snap"],
+["MP = CRCW0402140RFKEDC"],
+["Availability = In Stock"],
+["https://www.snapeda.com/parts/CRCW0402140RFKEDC/Vishay/view-part/?ref=eda", "https://www.snapeda.com/parts/CRCW0402140RFKEDC/Vishay/view-part/?ref=eda"],
+]\);) >>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [439.431 315.274 442.237 322.332]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = F1"],
+["Value = Fuse"],
+["Footprint = D_0402_1005Metric_Pad0.77x0.64mm_HandSolder"],
+["https://industrial.panasonic.com/cdbs/www-data/pdf/AFA0000/AFA0000C7.pdf", "https://industrial.panasonic.com/cdbs/www-data/pdf/AFA0000/AFA0000C7.pdf"],
+["Description = Fuse"],
+]\);) >>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [489.016 282.825 493.472 291.516]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R1"],
+["Value = 140"],
+["Footprint = RESC1607X60N"],
+["https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf", "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"],
+["Description = 140 Ohms \\u00B11% 0.1W, 1/10W Chip Resistor 0603 \\u00281608 Metric\\u0029 Automotive AEC-Q200 Thick Film"],
+["MF = Yageo"],
+["Description_1 = 
+                        
+                            330 Ohms \\u00B11% 0.1W, 1/10W Chip Resistor 0603 \\u00281608 Metric\\u0029 Moisture Resistant Thick Film
+                        
+"],
+["Package = 0603 Yageo"],
+["Price = None"],
+["https://www.snapeda.com/parts/RC0603FR-07330RL/Yageo/view-part/?ref=snap", "https://www.snapeda.com/parts/RC0603FR-07330RL/Yageo/view-part/?ref=snap"],
+["MP = RC0603FR-07330RL"],
+["Availability = In Stock"],
+["https://www.snapeda.com/parts/RC0603FR-07330RL/Yageo/view-part/?ref=eda", "https://www.snapeda.com/parts/RC0603FR-07330RL/Yageo/view-part/?ref=eda"],
+]\);) >>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [470.458 316.415 479.149 320.854]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R2"],
+["Value = 1k"],
+["Footprint = RESC1608X50N"],
+["https://www.susumu.co.jp/common/pdf/n_catalog_partition01_en.pdf", "https://www.susumu.co.jp/common/pdf/n_catalog_partition01_en.pdf"],
+["Description = RES SMD 1K OHM 0.5% 1/10W 0603"],
+["MF = Yageo"],
+["Description_1 = 
+                        
+                            100 Ohms \\u00B15% 0.1W, 1/10W Chip Resistor 0603 \\u00281608 Metric\\u0029 Automotive AEC-Q200, Moisture Resistant Thick Film
+                        
+"],
+["Package = 1608 Yageo"],
+["Price = None"],
+["https://www.snapeda.com/parts/AC0603JR-07100RL/Yageo/view-part/?ref=snap", "https://www.snapeda.com/parts/AC0603JR-07100RL/Yageo/view-part/?ref=snap"],
+["MP = AC0603JR-07100RL"],
+["Availability = In Stock"],
+["https://www.snapeda.com/parts/AC0603JR-07100RL/Yageo/view-part/?ref=eda", "https://www.snapeda.com/parts/AC0603JR-07100RL/Yageo/view-part/?ref=eda"],
+]\);) >>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [470.438 295.419 474.633 303.866]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R3"],
+["Value = 100R"],
+["Footprint = RESC1608X55N"],
+["https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_11.pdf", "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-AC_51_RoHS_L_11.pdf"],
+["Description = 100 Ohms \\u00B15% 0.1W, 1/10W Chip Resistor 0603 \\u00281608 Metric\\u0029 Automotive AEC-Q200, Moisture Resistant Thick Film"],
+["MF = Yageo"],
+["Description_1 = 
+                        
+                            100 Ohms \\u00B15% 0.1W, 1/10W Chip Resistor 0603 \\u00281608 Metric\\u0029 Automotive AEC-Q200, Moisture Resistant Thick Film
+                        
+"],
+["Package = 1608 Yageo"],
+["Price = None"],
+["https://www.snapeda.com/parts/AC0603JR-07100RL/Yageo/view-part/?ref=snap", "https://www.snapeda.com/parts/AC0603JR-07100RL/Yageo/view-part/?ref=snap"],
+["MP = AC0603JR-07100RL"],
+["Availability = In Stock"],
+["https://www.snapeda.com/parts/AC0603JR-07100RL/Yageo/view-part/?ref=eda", "https://www.snapeda.com/parts/AC0603JR-07100RL/Yageo/view-part/?ref=eda"],
+]\);) >>
+>>
+endobj
+19 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [453.756 288.108 468.567 322.674]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U1"],
+["Value = FOD817ASD"],
+["Footprint = SOIC254P1016X385-4N"],
+["https://rocelec.widen.net/view/pdf/yhg4flovvn/ONSM-S-A0003163276-1.pdf?t.download=true&u=5oefqw", "https://rocelec.widen.net/view/pdf/yhg4flovvn/ONSM-S-A0003163276-1.pdf?t.download=true&u=5oefqw"],
+["Description = Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"],
+["MF = onsemi"],
+["Description_1 = 
+                        
+                            Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD
+                        
+"],
+["Package = SMD-4 ON Semiconductor"],
+["Price = None"],
+["https://www.snapeda.com/parts/FOD817ASD/Onsemi/view-part/?ref=eda", "https://www.snapeda.com/parts/FOD817ASD/Onsemi/view-part/?ref=eda"],
+["https://www.snapeda.com/parts/FOD817ASD/Onsemi/view-part/?ref=snap", "https://www.snapeda.com/parts/FOD817ASD/Onsemi/view-part/?ref=snap"],
+["MP = FOD817ASD"],
+["Availability = In Stock"],
+["MANUFACTURER = FAIRCHILD SEMICONDUCTOR"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'file'\) app.openDoc\(cChoice.substring\(7\)\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+21 0 R
+]
+/Count 1
+>>
+endobj
+55 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20250515212953)
+/Creator (PCBNEW)
+/Title (RelaySwitchCompact-Edge_Cuts.pdf)
+>>
+endobj
+38 0 obj
+<<
+/Title (D1)
+/Parent 24 0 R
+/Next 42 0 R
+/A 37 0 R
+>>
+endobj
+42 0 obj
+<<
+/Title (F1)
+/Parent 24 0 R
+/Next 32 0 R
+/Prev 38 0 R
+/A 41 0 R
+>>
+endobj
+32 0 obj
+<<
+/Title (H1)
+/Parent 24 0 R
+/Next 28 0 R
+/Prev 42 0 R
+/A 31 0 R
+>>
+endobj
+28 0 obj
+<<
+/Title (J1)
+/Parent 24 0 R
+/Next 26 0 R
+/Prev 32 0 R
+/A 27 0 R
+>>
+endobj
+26 0 obj
+<<
+/Title (K1)
+/Parent 24 0 R
+/Next 34 0 R
+/Prev 28 0 R
+/A 25 0 R
+>>
+endobj
+34 0 obj
+<<
+/Title (LED1)
+/Parent 24 0 R
+/Next 30 0 R
+/Prev 26 0 R
+/A 33 0 R
+>>
+endobj
+30 0 obj
+<<
+/Title (LED2)
+/Parent 24 0 R
+/Next 44 0 R
+/Prev 34 0 R
+/A 29 0 R
+>>
+endobj
+44 0 obj
+<<
+/Title (R1)
+/Parent 24 0 R
+/Next 46 0 R
+/Prev 30 0 R
+/A 43 0 R
+>>
+endobj
+46 0 obj
+<<
+/Title (R2)
+/Parent 24 0 R
+/Next 48 0 R
+/Prev 44 0 R
+/A 45 0 R
+>>
+endobj
+48 0 obj
+<<
+/Title (R3)
+/Parent 24 0 R
+/Next 40 0 R
+/Prev 46 0 R
+/A 47 0 R
+>>
+endobj
+40 0 obj
+<<
+/Title (R4)
+/Parent 24 0 R
+/Next 50 0 R
+/Prev 48 0 R
+/A 39 0 R
+>>
+endobj
+50 0 obj
+<<
+/Title (U1)
+/Parent 24 0 R
+/Next 36 0 R
+/Prev 40 0 R
+/A 49 0 R
+>>
+endobj
+36 0 obj
+<<
+/Title (U2)
+/Parent 24 0 R
+/Prev 50 0 R
+/A 35 0 R
+>>
+endobj
+24 0 obj
+<<
+/Title (Footprints)
+/Parent 23 0 R
+/Count -13
+/First 38 0 R
+/Last 36 0 R
+/A 22 0 R
+>>
+endobj
+23 0 obj
+<<
+/Title (Page 1)
+/Parent 56 0 R
+/Count -1
+/First 24 0 R
+/Last 24 0 R
+/A 22 0 R
+>>
+endobj
+56 0 obj
+<< /Type /Outlines
+   /Count 15
+   /First 23 0 R
+   /Last 23 0 R
+>>
+endobj
+57 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 56 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 58
+0000000000 65535 f 
+0000014805 00000 n 
+0000001936 00000 n 
+0000002049 00000 n 
+0000014126 00000 n 
+0000000015 00000 n 
+0000000275 00000 n 
+0000002070 00000 n 
+0000003533 00000 n 
+0000004073 00000 n 
+0000005303 00000 n 
+0000005616 00000 n 
+0000006150 00000 n 
+0000006722 00000 n 
+0000007870 00000 n 
+0000009018 00000 n 
+0000009470 00000 n 
+0000010671 00000 n 
+0000011750 00000 n 
+0000012991 00000 n 
+0000000294 00000 n 
+0000000400 00000 n 
+0000000604 00000 n 
+0000016190 00000 n 
+0000016085 00000 n 
+0000000651 00000 n 
+0000015329 00000 n 
+0000000715 00000 n 
+0000015244 00000 n 
+0000000779 00000 n 
+0000015501 00000 n 
+0000000843 00000 n 
+0000015159 00000 n 
+0000000907 00000 n 
+0000015414 00000 n 
+0000000971 00000 n 
+0000016013 00000 n 
+0000001035 00000 n 
+0000015002 00000 n 
+0000001099 00000 n 
+0000015843 00000 n 
+0000001163 00000 n 
+0000015074 00000 n 
+0000001227 00000 n 
+0000015588 00000 n 
+0000001291 00000 n 
+0000015673 00000 n 
+0000001355 00000 n 
+0000015758 00000 n 
+0000001419 00000 n 
+0000015928 00000 n 
+0000001483 00000 n 
+0000001590 00000 n 
+0000001705 00000 n 
+0000001817 00000 n 
+0000014865 00000 n 
+0000016290 00000 n 
+0000016374 00000 n 
+trailer
+<< /Size 58 /Root 57 0 R /Info 55 0 R >>
+startxref
+16515
+%%EOF
